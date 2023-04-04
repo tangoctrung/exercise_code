@@ -1,0 +1,67 @@
+.declarationForm{
+    width: 100%;
+}
+
+.declarationForm>h1, .declarationForm>i{
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+.declarationForm i{
+    margin-bottom: 15px;
+}
+.declarationForm h3{
+    margin-top: 20px;
+    color: rgb(80, 80, 80);
+}
+.declarationForm>p{
+    width: 100%;
+    text-align: center;
+    margin: 20px 0px 10px 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.declarationForm h3 i{
+    font-size: 16px;
+    color: gray;
+    font-weight: 500;
+}
+.declarationForm-infoBasic{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+}
+.declarationForm-img{
+    flex: 3;
+    display: flex;
+    justify-content: center;
+    
+}
+.declarationForm-img-content{
+    width: 230px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid gray;
+}
+.declarationForm-listInfo{
+    flex: 4;
+}
+.declarationForm-itemInfo{
+    width: 100%;
+    margin-bottom: 5px;
+    display: flex;
+}
+.declarationForm-itemInfo b{
+    width: 100px;
+}
+.declarationForm-itemInfo span{
+    width: calc(100% - 100px);
+    border-bottom: 1px dotted gray;
+}
+.declarationForm-infoDetail p{
+    width: 100%;
+    padding: 15px 0px 15px 0px;
+    border-bottom: 1.5px dotted gray;
+}

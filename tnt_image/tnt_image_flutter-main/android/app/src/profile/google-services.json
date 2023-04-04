@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160977647538",
+    "project_id": "socialphoto-flutter",
+    "storage_bucket": "socialphoto-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160977647538:android:cbfe98937cfc5c949b96ab",
+        "android_client_info": {
+          "package_name": "com.example.socialtnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160977647538-m1622er1vhtjoq9fl66dj7d3hsb8m391.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGE8bJKn6fHLvYvVvc5SJmOHfw4uAQe7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160977647538-m1622er1vhtjoq9fl66dj7d3hsb8m391.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

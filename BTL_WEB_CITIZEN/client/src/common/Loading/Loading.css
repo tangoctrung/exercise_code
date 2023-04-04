@@ -1,0 +1,89 @@
+/* progress - dùng cho load ảnh */
+
+.progress {
+    width: 100%;
+    height:100%;
+    border-radius: 20px;
+    border: 2px solid;
+    position: relative;
+  }
+  .progress::before {
+    content: "";
+    position: absolute;
+    margin: 2px;
+    inset: 0 100% 0 0;
+    border-radius: inherit;
+    background: currentColor;
+    animation: p6 1.5s infinite;
+  }
+  @keyframes p6 {
+    100% {
+      inset: 0;
+    }
+  }
+  
+  /* dot - dùng cho typing */
+  .dots {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle  closest-side, currentColor 80%, rgba(173, 169, 169, 0)) 0%
+        50%,
+      radial-gradient(circle closest-side, currentColor 80%, rgba(204, 200, 200, 0)) 50% 50%,
+      radial-gradient(circle closest-side, currentColor 80%, rgba(192, 188, 188, 0)) 100% 50%;
+    background-size: calc(100% / 3) 10px;
+    background-repeat: no-repeat;
+    animation: d3 1s infinite linear;
+  }
+  @keyframes d3 {
+    20% {
+      background-position: 0% 0%, 50% 50%, 100% 50%;
+    }
+    40% {
+      background-position: 0% 100%, 50% 0%, 100% 50%;
+    }
+    60% {
+      background-position: 0% 50%, 50% 100%, 100% 0%;
+    }
+    80% {
+      background-position: 0% 50%, 50% 50%, 100% 100%;
+    }
+  }
+  
+  
+  
+  /* circle - dùng cho load data */
+  svg {
+    width: 100%;
+    transform-origin: center;
+    animation: rotate 2s linear infinite;
+  }
+  
+  circle {
+    fill: none;
+    stroke-width: 5;
+    stroke-dasharray: 1, 200;
+    stroke-dashoffset: 0;
+    stroke-linecap: round;
+    animation: dash 1.5s ease-in-out infinite;
+  }
+  
+  @keyframes rotate {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes dash {
+    0% {
+      stroke-dasharray: 1, 200;
+      stroke-dashoffset: 0;
+    }
+    50% {
+      stroke-dasharray: 90, 200;
+      stroke-dashoffset: -35px;
+    }
+    100% {
+      stroke-dashoffset: -125px;
+    }
+  }
+  

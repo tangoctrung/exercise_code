@@ -1,0 +1,8148 @@
+@a font   /ɑ:'fɜ:ɳ/
+*  phó từ
+- thấu triệt, cặn kẽ, rõ ngọn nghành
+
+
+
+
+
+@a fortiori   /'ei,fɔ:ti'ɔ:rai/
+*  phó từ
+- huống hồ, huống là
+
+
+
+
+
+@a la carte   /'ɑ:lɑ:'kɑ:t/
+*  phó từ
+- theo món, gọi theo món, đặt theo món
+=to dine a_la_carte+ ăn cơm gọi theo món
+
+
+
+
+
+@a la mode   /,ɑ:lə'moud/
+*  phó từ
+- hợp thời trang, đúng mốt
+
+
+
+
+
+@a posteriori   /'eipɔs,teri'ɔ:rai/
+*  phó từ & tính từ
+- theo phép quy nạp
+=method a_posteriori+ phương pháp quy nạp
+- hậu nghiệm
+=probability a_posteriori+ (toán học) xác suất hậu nghiệm
+
+
+
+
+
+@a priori   /'eiprai'ɔ:rai/
+*  danh từ & phó từ
+- theo cách suy diễn, theo cách diễn dịch
+- tiên nghiệm
+=probability a_priori+ (toán học) xác xuất tiên nghiệm
+
+
+
+
+
+@a-bomb   /'ei'bɔm/
+*  danh từ
+- bom nguyên tử
+
+
+
+
+
+@a-going   /ə'gouiɳ/
+*  tính từ & phó từ
+- đang chạy, đang chuyển động; đang hoạt động, đang tiến hành
+=to set a-going+ cho chuyển động, cho chạy (máy...)
+
+
+
+
+
+@a-plenty   /ə'plenti/
+*  phó từ
+- (từ Mỹ,nghĩa Mỹ) nhiều, dồi dào, phong phú
+
+
+
+
+
+@a-power   /'ei'pauə/
+*  danh từ
+- năng lượng nguyên tử
+- cường quốc nguyên tử
+
+
+
+
+
+@a.d.   /'ei'di:/
+*  (viết tắt) của Ano Domin
+- sau công nguyên
+=1540 a.d.+ năm 1540 sau công nguyên
+
+
+
+
+
+@a.m.   /'ei'em/
+*  phó từ
+- (xem) ante_meridiem
+
+
+
+
+
+@aard-wolf   /'ɑ:d,wulf/
+*  danh từ
+- (động vật học) chó sói đất (Nam Phi)
+
+
+
+
+
+@aasvogel   /'ɑ:sfougəl/
+*  danh từ
+- (động vật học) con kên kên (Nam Phi)
+
+
+
+
+
+@aba   /'ɑ:bə/
+*  danh từ
+- áo aba (áo ngoài giống hình cái túi người A-Rập)
+
+
+
+
+
+@abaci   /'æbəkəs/
+*  danh từ,  số nhiều abaci,  abacuses
+- bàn tính
+=to move counters of an abacus; to work an abacus+ tính bằng bàn tính, gảy bàn tính
+- (kiến trúc)
+- đầu cột, đỉnh cột
+
+
+
+
+
+@aback   /ə'bæk/
+*  phó từ
+- lùi lại, trở lại phía sau
+=to stand aback from+ đứng lùi lại để tránh
+- (hàng hải) bị thổi ép vào cột buồm (buồm)
+=to be taken aback+ (hàng hải) bị gió thổi ép vào cột buồm
+- (nghĩa bóng) sửng sốt, ngạc nhiên
+=to be taken aback by the news+ sửng sốt vì cái tin đó
+
+
+
+
+
+@abacus   /'æbəkəs/
+*  danh từ,  số nhiều abaci,  abacuses
+- bàn tính
+=to move counters of an abacus; to work an abacus+ tính bằng bàn tính, gảy bàn tính
+- (kiến trúc)
+- đầu cột, đỉnh cột
+
+
+
+
+
+@abaddon   /ə'bædən/
+*  danh từ
+- âm ti, địa ngục
+- con quỷ
+
+
+
+
+
+@abaft   /ə'bɑ:ft/
+*  phó từ
+- (hàng hải) ở phía sau bánh lái, gần phía bánh lái
+*  giới từ
+- (hàng hải) sau, ở đằng sau, ở phía sau
+=abaft the mast+ sau cột buồm
+
+
+
+
+
+@abalone   /,æbə'louni/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) bào ngư
+
+
+
+
+
+@abb   /æb/
+*  danh từ
+- (nghành dệt) sợi canh, sợi khổ (của tấm vải)
+
+
+
+
+
+@abbacy   /'æbəsi/
+*  danh từ
+- chức vị trưởng tu viện; quyền hạn trưởng tu viện
+
+
+
+
+
+@abbatial   /ə'beiʃəl/
+*  tính từ
+- (thuộc) trưởng tu viện
+
+
+
+
+
+@abbess   /'æbis/
+*  danh từ
+- bà trưởng tu viện
+
+
+
+
+
+@abbey   /'æbi/
+*  danh từ
+- tu viện
+- giới tu sĩ, các nhà tu, các bà xơ nhà thờ (lớn)
+
+
+
+
+
+@abbot   /'æbət/
+*  danh từ
+- cha trưởng tu viện
+
+
+
+
+
+@abbreviate   /ə'bri:vieit/
+*  ngoại động từ
+- tóm tắt, viết tắt; rút ngắn lại (cuộc đi thăm...)
+- (toán học) ước lược, rút gọn
+*  tính từ
+- tương đối ngắn
+
+
+
+
+
+@abbreviated   /ə'bri:vietid/
+*  tính từ
+- tóm tắt; viết tắt; rút ngắn lại
+- ngắn cũn cỡn (quần áo...)
+
+
+
+
+
+@abbreviation   /ə,bri:vi'eiʃn/
+*  danh từ
+- sự tóm tắt, sự rút ngắn (cuộc đi thăm...)
+- bài tóm tắt
+- chữ viết tắt
+=Jan is the abbreviation January+ Jan là chữ viết tắt của January
+- (toán học) sự ước lược, sự rút gọn
+
+
+
+
+
+@abbreviator   /ə'bri:vieitə/
+*  danh từ
+- người tóm tắt
+
+
+
+
+
+@abdicate   /'æbdikeit/
+*  ngoại động từ
+- từ bỏ (quyền lợi, địa vị...)
+=to abdicate a position+ từ bỏ một địa vị
+=to abdicate all one's rights+ từ bỏ mọi quyền lợi
+*  nội động từ
+- thoái vị, từ ngôi
+
+
+
+
+
+@abdication   /,æbdi'keiʃn/
+*  danh từ
+- sự thoái vị, sự từ ngôi
+- sự từ bỏ (địa vị, chức vụ, quyền lợi...)
+
+
+
+
+
+@abdomen   /'æbdəmen/
+*  danh từ
+- bụng
+
+
+
+
+
+@abdominal   /æb'dɔminl/
+*  tính từ
+- (thuộc) bụng; ở bụng
+=an abdominal operation+ phẫu thuật ở bụng
+=abdominal cavity+ khoang bụng
+
+
+
+
+
+@abdominous   /æb'dɔminəs/
+*  tính từ
+- phệ bụng
+
+
+
+
+
+@abducent   /æb'dju:sənt/
+*  tính từ
+- (giải phẫu) rẽ ra, giạng ra
+
+
+
+
+
+@abduct   /æd'dʌkt/
+*  ngoại động từ
+- bắt cóc, cuỗm đi, lừa đem đi (người đàn bà...)
+- (giải phẫu) rẽ ra, giạng ra
+
+
+
+
+
+@abduction   /æb'dʌkʃn/
+*  danh từ
+- sự bắt cóc (trẻ em...), sự bắt đi, sự cuỗm đi, sự lừa đem đi
+- (giải phẫu) sự giạng ra
+
+
+
+
+
+@abductor   /æb'dʌktə/
+*  danh từ
+- người bắt cóc, người cuỗm đi, người lừa đem đi
+- (giải phẫu) cơ giạng ((cũng) abductor muscle)
+
+
+
+
+
+@abeam   /ə'bi:m/
+*  phó từ
+- (hàng hải),  (hàng không) đâm ngang sườn
+=abeam of us+ ngang sườn chúng tôi; sóng ngang với chúng tôi
+
+
+
+
+
+@abecedarian   /,eibi:si:'deəriən/
+*  tính từ
+- sắp xếp theo thứ tự abc
+- sơ đẳng
+- dốt nát
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) học sinh vỡ lòng
+
+
+
+
+
+@abed   /ə'bed/
+*  phó từ
+- ở trên giường
+=to lie abed+ nằm ở trên giường
+
+
+
+
+
+@abele   /ə'bi:l/
+*  danh từ
+- (thực vật học) cây bạch dương
+
+
+
+
+
+@abelmosk   /'eibəlmɔsk/
+*  danh từ
+- (thực vật học) cây vông vàng
+
+
+
+
+
+@aberrant   /æ'berənt/
+*  tính từ
+- lầm lạc
+- (sinh vật học) khác thường
+
+
+
+
+
+@aberration   /æ'be'reiʃn/
+*  danh từ
+- sự lầm lạc; phút lầm lạc
+- sự kém trí khôn, sự loạn trí
+- sự khác thường
+- (vật lý) quang sai
+=lateral aberration+ quang sai ngang
+- (thiên văn học) tính sai
+=secular aberration+ tính sai trường kỳ
+=annual aberration+ tính sai hằng năm
+
+
+
+
+
+@abet   /ə'bet/
+*  ngoại động từ
+- xúi bẩy, xúi giục, khích
+- tiếp tay (ai làm bậy)
+
+
+
+
+
+@abjection   /æb'dʤekʃn/
+*  danh từ
+- sự hèn hạ, sự thấp hèn, sự đê tiện
+
+
+
+
+
+@abjectness   /'æbdʤektnis/
+*  danh từ
+- sự hèn hạ, sự thấp hèn, sự đê tiện, sự đáng khinh
+- sự khốn khổ, sự khốn nạn
+
+
+
+
+
+@abjuration   /,æbdʤuə'reiʃn/
+*  danh từ
+- sự tuyên bố bỏ, sự thề bỏ
+- (tôn giáo) sự thề bỏ đạo, sự bội đạo
+
+
+
+
+
+@abjure   /əb'dʤuə/
+*  động từ
+- tuyên bố bỏ, nguyện bỏ
+=to abjure one's religion+ bỏ đạo
+=to abjure one's rights+ tuyên bố từ bỏ quyền lợi của mình
+- rút lui (ý kiến, lời hứa...)
+=to abjure one's opinion+ rút lui ý kiến
+- thề bỏ (đất nước) đi mãi mãi
+
+
+
+
+
+@ablactation   /,æblæk'teiʃn/
+*  danh từ
+- sự cai sữa
+- sự cạn sữa
+
+
+
+
+
+@ablate   /æb'leit/
+*  ngoại động từ
+- (y học) cắt bỏ
+
+
+
+
+
+@ablation   /æb'leʃn/
+*  danh từ
+- (y học) sự cắt bỏ (một bộ phận trong cơ thể)
+- (địa lý,địa chất) sự tải mòn (đá)
+- (địa lý,địa chất) sự tiêu mòn (sông băng)
+
+
+
+
+
+@ablative   /'æblətiv/
+*  tính từ
+- (ngôn ngữ học) (thuộc) cách công cụ
+*  danh từ
+- (ngôn ngữ học) cách công cụ
+
+
+
+
+
+@ablaut   /'æblaut/
+*  danh từ
+- (ngôn ngữ học) Aplau
+
+
+
+
+
+@ablaze   /ə'bleiz/
+*  tính từ & phó từ
+- rực cháy, bốc cháy
+- sáng chói lọi
+- bừng bừng, rừng rực
+=ablaze with anger+ bừng bừng nổi giận
+
+
+
+
+
+@able   /'eibl/
+*  tính từ
+- có năng lực, có tài
+=an able co-op manager+ một chủ nhiệm hợp tác xã có năng lực
+=an able writer+ một nhà văn có tài
+=to be able to+ có thể
+=to be able to do something+ có thể làm được việc gì
+- (pháp lý) có đủ tư cách, có đủ thẩm quyền
+
+
+
+
+
+@able-bodied   /'eibl'bɔdid/
+*  tính từ
+- khoẻ mạnh; đủ tiêu chuẩn sức khoẻ (làm nghĩa vụ quân sự)
+=able-bodied seaman+ ((viết tắt) A.B.) thuỷ thủ hạng nhất
+
+
+
+
+
+@abloom   /ə'blu:m/
+*  tính từ & phó từ
+- đang nở (ra) hoa
+
+
+
+
+
+@abluent   /'æbluənt/
+*  tính từ
+- rửa sạch, tẩy sạch
+*  danh từ
+- chất tẩy, thuốc tẩy
+
+
+
+
+
+@ablush   /ə'blʌʃ/
+*  tính từ & phó từ
+- thẹn đỏ mặt
+
+
+
+
+
+@ablution   /ə'blu:ʃn/
+*  danh từ,  (thường) số nhiều
+- (tôn giáo) lễ rửa tội; lễ tắm gội; lễ rửa sạch các đồ thờ
+- (tôn giáo) nước tắm gội; nước rửa đồ thờ
+- ((thường) số nhiều) sự tắm gội, sự rửa ráy
+
+
+
+
+
+@ably   /'eibli/
+*  phó từ
+- có khả năng, có tài, khéo léo, tài tình
+
+
+
+
+
+@abnegate   /'æbnigeit/
+*  ngoại động từ
+- nhịn (cái gì)
+- bỏ (đạo)
+- từ bỏ (quyền lợi...); từ chối không nhận (đặc quyền...)
+
+
+
+
+
+@abnegation   /,æbni'geiʃn/
+*  danh từ
+- sự bỏ (đạo...); sự từ bỏ (quyền lợi); sự từ chối không nhận (đặc quyền...)
+- sự quên mình, sự hy sinh, sự xả thân ((thường) self abnegation)
+
+
+
+
+
+@abnormal   /æb'nɔ:məl/
+*  tính từ
+- không bình thường, khác thường; dị thường
+
+
+
+
+
+@aboard   /ə'bɔ:d/
+*  phó từ
+- trên tàu, trên boong tàu, trên thuyền, trên xe lửa; trên máy bay
+=to go aboard+ lên tàu, lên boong
+- dọc theo; gần, kế
+=close (hard) aboard+ nằm kế sát
+=to keep the land aboard+ đi dọc theo bờ
+=all aboard!+ đề nghị mọi người lên tàu!
+=to fall aboard of a ship+ va phải một chiếc tàu khác
+*  giới từ
+- lên trên (tàu thuỷ, xe lửa, máy bay...)
+=to go aboard a ship+ lên tàu
+=to travel aboard a special train+ đi du lịch trên một chuyến xe lửa đặc biệt
+
+
+
+
+
+@allotropic   /,ælə'trɔpik/
+*  tính từ
+- khác hình
+
+
+
+
+
+@allottee   /ə,lɔ'ti:/
+*  danh từ
+- người được nhận phần chia
+
+
+
+
+
+@allseed   /'ɔ:l,si:d/
+*  danh từ
+- (thực vật học) cây lắm hạt
+
+
+
+
+
+@allspice   /'ɔ:lspais/
+*  danh từ
+- hạt tiêu Gia-mai-ca (hạt của một cây thuộc họ sim)
+
+
+
+
+
+@allude   /ə'lu:d/
+*  nội động từ
+- nói bóng gió, ám chỉ
+=to allude to something+ nói bóng gió một việc gì
+
+
+
+
+
+@allure   /ə'ljuə/
+*  danh từ
+- sức quyến rũ, sức lôi cuốn, sức cám dỗ; duyên
+*  ngoại động từ
+- quyến rũ, lôi cuốn, cám dỗ; làm say mê, làm xiêu lòng
+
+
+
+
+
+@allurement   /ə'ljuəmənt/
+*  danh từ
+- sự quyến rũ, sự lôi cuốn, sự cám dỗ
+- cái quyến rũ, cái làm say mê
+
+
+
+
+
+@alluring   /ə'lujəriɳ/
+*  tính từ
+- quyến rũ, lôi cuốn, cám dỗ; có duyên, duyên dáng; làm say mê, làm xiêu lòng
+
+
+
+
+
+@alluringness   /ə'ljuəriɳnis/
+*  danh từ
+- sức quyến rũ, sức lôi cuốn, sức cám dỗ, vẻ duyên dáng; khả năng làm say mê, khả năng làm xiêu lòng
+
+
+
+
+
+@allusion   /ə'lu:ʤn/
+*  danh từ
+- sự nói bóng gió, sự ám chỉ
+=to make an allusion to+ nói bóng gió, ám chỉ, nói đến
+- lời ám chỉ
+
+
+
+
+
+@allusive   /ə'lu:siv/
+*  tính từ
+- có ý nói bóng gió, có ý ám chỉ, nhiều ý bóng gió, nhiều lời ám chỉ
+- có tính chất tượng trưng, có tính chất biểu tượng
+=allusive arms+ phù hiệu có tính chất tượng trưng, phù hiệu nhắc đến tên người đeo
+
+
+
+
+
+@allusiveness   /ə'lu:sivnis/
+*  danh từ
+- tính chất bóng gió, tính chất ám chỉ
+- tính tượng trưng, tính biểu tượng
+
+
+
+
+
+@alluvia   /ə'lu:vjəm/
+*  danh từ,  số nhiều alluvia,  alluviums
+- bồi tích, đất bồi, đất phù sa
+=alluvium period+ (địa lý,địa chất) kỷ thứ tư
+
+
+
+
+
+@alluvial   /ə'lu:vjəl/
+*  tính từ
+- (thuộc) bồi tích, (thuộc) đất bồi, (thuộc) phù sa
+=alluvial soil+ đất phù sa, đất bồi
+*  danh từ
+- đất phù sa, đất bồi
+
+
+
+
+
+@alluvion   /ə'lu:vjən/
+*  danh từ
+- sự bồi đất (lên bãi biển, bờ sông...)
+- nước lụt
+- bồi tích, đất bồi, phù sa
+
+
+
+
+
+@alluvium   /ə'lu:vjəm/
+*  danh từ,  số nhiều alluvia,  alluviums
+- bồi tích, đất bồi, đất phù sa
+=alluvium period+ (địa lý,địa chất) kỷ thứ tư
+
+
+
+
+
+@ally   /'æli/
+*  danh từ
+- hòn bi (bằng đá thạch cao)
+*  danh từ
+- nước đồng minh, nước liên minh; bạn đồng minh
+*  ngoại động từ
+- liên kết, liên minh
+- kết thông gia
+=allied to+ gắn với, có quan hệ họ hàng với
+
+
+
+
+
+@alma mater   /'ælmə'meitə/
+*  danh từ
+- trường học, học đường, học hiệu
+
+
+
+
+
+@almagest   /'ælmədʤest/
+*  danh từ
+- sách thiên văn (của Ptô-lê-mi); sách chiêm tinh; sách luyện giả kim
+
+
+
+
+
+@almighty   /ɔ:l'maiti/
+*  tính từ
+- toàn năng, có, quyền tối cao, có mọi quyền lực
+=Almighty God+ thượng đế
+- (từ lóng) hết sức lớn, vô cùng, đại
+=an almighty fool+ một thằng đại ngốc
+*  phó từ
+- (từ lóng) hết sức, vô cùng
+*  danh từ
+- thượng đế
+
+
+
+
+
+@almond   /'ɑ:mənd/
+*  danh từ
+- quả hạnh
+=sweet almond+ hạnh ngọt
+=bitter almond+ hạnh đắng
+- (giải phẫu) hạch hạnh
+- vật hình quả hạnh
+
+
+
+
+
+@almond tree   /'ɑ:məndtri:/
+*  danh từ
+- (thực vật học) cây hạnh
+
+
+
+
+
+@almond-shaped   /'ɑ:məndʃeipt/
+*  tính từ
+- dạng quả hạnh
+
+
+
+
+
+@almoner   /'ɑ:mənə/
+*  danh từ
+- người phát chẩn
+
+
+
+
+
+@almonry   /'ɑ:mənri/
+*  danh từ
+- nơi phát chẩn
+
+
+
+
+
+@almost   /'ɔ:lmoust/
+*  phó từ
+- hầu (như), gần (như), suýt nữa, tí nữa
+
+
+
+
+
+@alms   /ɑ:mz/
+*  danh từ
+- (thường) dùng như số ít của bố thí
+=to ask for alms+ xin của bố thí
+
+
+
+
+
+@alms-deed   /'ɑ:mz,di:d/
+*  danh từ
+- việc từ thiện
+
+
+
+
+
+@alms-giver   /'ɑ:mz,givə/
+*  danh từ
+- người bố thí
+
+
+
+
+
+@alms-house   /'ɑ:mzhaus/
+*  danh từ
+- nhà tế bần
+
+
+
+
+
+@almsman   /'ɑ:mzmən/
+*  danh từ
+- người được cứu tế, người sống bằng của bố thí
+
+
+
+
+
+@almswoman   /'ɑ:mz,wumən/
+*  danh từ
+- người đàn bà được cứu tế, người đàn bà sống bằng của bố thí
+
+
+
+
+
+@aloe   /'ælou/
+*  danh từ
+- (thực vật học) cây lô hội
+- (số nhiều) dầu tẩy lô hội
+
+
+
+
+
+@aloft   /ə'lɔft/
+*  tính từ
+- cao, ở trên cao
+- (hàng hải) trên cột buồm
+*  phó từ
+- cao, ở trên cao
+=to hold aloft the banner of Marxism-Leninnism+ giương cao ngọn cờ của chủ nghĩa Mác-Lênin
+!to go aloft
+- (thông tục) chầu trời, chết
+
+
+
+
+
+@alone   /ə'loun/
+*  phó từ & tính từ
+- một mình, trơ trọi, cô độc, đơn độc
+=alone to sit alone+ ngồi một mình
+=to live all alone+ sống trơ trọi một mình
+- riêng, chỉ có
+=I'm not alone in this opinion+ không phải chỉ riêng tôi có ý kiến này
+!to leave alone
+- (xem) leave
+!to let alone
+- (xem) let
+!let alone
+- không kể đến, chưa nói đến, không tính đến, chưa tính đến
+
+
+
+
+
+@aloneness   /ə'lounnis/
+*  danh từ
+- tình trạng cô độc, tình trạng đơn độc
+
+
+
+
+
+@along   /ə'lɔɳ/
+*  phó từ
+- theo chiều dài, suốt theo
+=to lie along+ nằm dài ra
+- tiến lên, về phía trước
+=come along+ đi nào, đi lên, tiến lên đi
+- (từ Mỹ,nghĩa Mỹ) luôn luôn, bao giờ cũng
+*  giới từ
+- dọc theo, theo
+=to walk along the road+ đi dọc theo con đường
+=along the river+ dọc theo con sông
+
+
+
+
+
+@along-shore   /ə'lɔɳ'ʃɔ:/
+*  phó từ
+- dọc theo bờ biển, dài theo bờ biển
+
+
+
+
+
+@authoritarian   /ɔ:,θɔri'teəriən/
+*  tính từ
+- người độc đoán
+
+
+
+
+
+@authoritarianism   /ɔ:,θɔri'teəriənizm/
+*  danh từ
+- chủ nghĩa độc đoán
+
+
+
+
+
+@authoritative   /ɔ:'θɔritətiv/
+*  tính từ
+- có căn cứ đích xác, có am hiểu tường tận, có thể tin được; có thẩm quyền
+=an authoritative report+ một bản báo cáo có căn cứ
+- hống hách, hách dịch; mệnh lệnh, quyết đoán
+=to speak in authoritative tone+ nói với giọng hách dịch
+- có uy quyền, có quyền lực
+
+
+
+
+
+@autonomic   /,ɔ:tou'nɔmik/
+*  tính từ
+- tự trị
+
+
+
+
+
+@autonomist   /ɔ:'tɔnəmist/
+*  danh từ
+- người chủ trương tự trị
+
+
+
+
+
+@autonomous   /ɔ:'tɔnəməs/
+*  tính từ
+- tự trị
+
+
+
+
+
+@autonomy   /ɔ:'tɔnæmi/
+*  danh từ
+- sự tự trị; quyền tự trị
+- nước tự trị, khu tự trị
+- (triết học) tự do ý chí (theo học thuyết của Căng)
+- sự tự quản
+
+
+
+
+
+@autopilot   /'ɔ:tə,pailət/
+*  danh từ
+- máy lái tự động
+
+
+
+
+
+@autopsy   /'ɔ:təpsi/
+*  danh từ
+- (y học) sự mổ xác (để khám nghiệm)
+- (nghĩa bóng) sự mổ xẻ phân tích
+
+
+
+
+
+@avocation   /avocation/
+*  danh từ
+- công việc phụ; việc lặt vặt
+- khuynh hướng, xu hướng, chí hướng
+- sự tiêu khiển, sự giải trí
+
+
+
+
+
+@avoid   /ə'vɔid/
+*  ngoại động từ
+- tránh, tránh xa
+=to avoid smoking+ tránh hút thuốc lá
+=to avoid bad company+ tránh xa bạn bè xấu
+- (pháp lý) huỷ bỏ, thủ tiêu (bản án); bác bỏ (lý lẽ, lời biện hộ)
+
+
+
+
+
+@avoidable   /ə'vɔidəbl/
+*  tính từ
+- có thể tránh được
+
+
+
+
+
+@avoidance   /ə'vɔidəns/
+*  danh từ
+- sự tránh; sự tránh xa; sự tránh khỏi, sự tránh thoát
+- (pháp lý) sự huỷ bỏ, sự thủ tiêu, sự bác bỏ
+- chỗ khuyết (chức vụ)
+
+
+
+
+
+@awl   /ɔ:l/
+*  danh từ
+- giùi (của thợ giày)
+
+
+
+
+
+@awl-shaped   /'ɔ:lʃeipt/
+*  tính từ
+- (thực vật học) hình giùi
+
+
+
+
+
+@awn   /ɔ:l/
+*  danh từ
+- (thực vật học) râu (ở đầu hạt thóc)
+
+
+
+
+
+@awning   /'ɔ:niɳ/
+*  danh từ
+- tấm vải bạt (để che nắng, mưa... trên boong tàu)
+- mái hiên
+
+
+
+
+
+@babel   /'beibəl/
+*  danh từ
+- (kinh thánh) (Babel) tháp Ba-ben
+- toà nhà cao; công trình kiến trúc to lớn
+- kế hoạch ảo tưởng
+- mớ hỗn độn những tiếng nói khác nhau
+
+
+
+
+
+@babittry   /'bæbitri/
+*  danh từ
+- tư tưởng Ba-bít (nhân vật tiểu thuyết, trung thành với tư tưởng, lý tưởng của gia cấp tiểu tư sản, tự mãn với lối sống khá giả của mình)
+
+
+
+
+
+@baboon   /bə'bu:n/
+*  danh từ
+- (động vật học) khỉ đầu chó
+
+
+
+
+
+@baby   /'beibi/
+*  danh từ
+- đứa bé mới sinh; trẻ thơ
+- người tính trẻ con
+- (định ngữ) nhỏ; xinh xinh
+=a baby car+ chiếc ôtô nhỏ
+
+
+
+
+
+@back of   /'kækɔv/
+*  giới từ
+- (từ Mỹ,nghĩa Mỹ) đằng sau
+
+
+
+
+
+@back slang   /'bæk'slæɳ/
+*  danh từ
+- lời nói đảo (như ynnep thay cho penny)
+
+
+
+
+
+@back-bencher   /'bæk,bentʃə/
+*  danh từ
+- nghị viên ngồi hàng ghế sau (dành cho nghị viên thứ yếu của mỗi đảng có đại diện, ở nghi viện Anh)
+
+
+
+
+
+@back-blocks   /'bækblɔks/
+*  (bất qui tắc) danh từ số nhiều
+- đất hoang vu (ở sâu trong lục địa) (Uc)
+
+
+
+
+
+@back-breaking   /'bæk,breikiɳ/
+*  tính từ
+- phải làm cật lực, làm sụm lưng (công việc...)
+
+
+
+
+
+@back-chat   /'bæktʃæt/
+*  danh từ
+- lời đáp lại, lời cãi lại
+
+
+
+
+
+@back-cloth   /'bækdrɔp/
+*  danh từ
+- (sân khấu) phông
+- (điện ảnh) màn ảnh
+
+
+
+
+
+@back-end   /'bæk'end/
+*  danh từ
+- cuối (mùa) thu
+
+
+
+
+
+@back-field   /'bækfi:ld/
+*  danh từ
+- (thể dục,thể thao) hàng tam vệ (bóng đá)
+
+
+
+
+
+@back-fire   /'bæk'faie/
+*  danh từ
+- lửa đốt chặn (cho một đám cháy khỏi lan hết cánh đồng cỏ)
+- (kỹ thuật) hiện tượng sớm lửa, hiện tượng nổ sớm (ở xylanh)
+
+
+
+
+
+@back-haul   /'bækhɔ:l/
+*  danh từ
+- chuyển hàng về
+
+
+
+
+
+@back-lash   /'bæklæʃ/
+*  danh từ
+- (kỹ thuật) khe, khe hở
+- sự giật lùi (bánh xe)
+
+
+
+
+
+@back-maker   /'bæk,mɑ:kə/
+*  danh từ
+- người chấp người khác (trong một cuộc thi...)
+
+
+
+
+
+@back-pay   /'bækpei/
+*  danh từ
+- tiền lương trả chậm
+
+
+
+
+
+@back-rest   /'bækrest/
+*  danh từ
+- cái tựa lưng
+
+
+
+
+
+@back-seat driver   /'bæksi:t'draivə/
+*  danh từ
+- người không có trách nhiệm nhưng cứ thích điều khiển
+
+
+
+
+
+@back-set   /'bæk,set/
+*  danh từ
+- dòng nước, ngược
+- sự thất bại
+
+
+
+
+
+@back-talk   /'bæktɔ:k/
+*  danh từ
+- (thông tục) lời cãi lại
+
+
+
+
+
+@backache   /'bækeik/
+*  danh từ
+- chứng đau lưng
+
+
+
+
+
+@backbit   /'bækbait/
+*  (bất qui tắc) ngoại động từ backbit,  backbitten
+- nói vụng, nói xấu sau lưng
+
+
+
+
+
+@backbite   /'bækbait/
+*  (bất qui tắc) ngoại động từ backbit,  backbitten
+- nói vụng, nói xấu sau lưng
+
+
+
+
+
+@backbiter   /'bæk,baitə/
+*  danh từ
+- kẻ
+
+
+
+
+
+@backbiting   /'bækbaitiɳ/
+*  danh từ
+- sự nói vụng, sự nói xấu sau lưng
+
+
+
+
+
+@backbitten   /'bækbait/
+*  (bất qui tắc) ngoại động từ backbit,  backbitten
+- nói vụng, nói xấu sau lưng
+
+
+
+
+
+@backboard   /'bækbɔ:d/
+*  danh từ
+- ván hậu (xe bò...)
+
+
+
+
+
+@bevel-gear   /'bevəlgiə/
+*  danh từ
+- (kỹ thuật) sự truyền động bằng bánh răng nón
+
+
+
+
+
+@beverage   /'bəvəridʤ/
+*  danh từ
+- đồ uống
+
+
+
+
+
+@bevy   /'bevi/
+*  danh từ
+- nhóm, đoàn, bầy (đàn bà, con gái); đàn (chim)
+
+
+
+
+
+@bewail   /bi'weil/
+*  động từ
+- than phiền, than vãn, khóc than, thương tiếc
+
+
+
+
+
+@beware   /bi'weə/
+*  động từ
+- cẩn thận, chú ý; đề phòng
+=beware of the dog!+ cẩn thận, có chó đấy!
+
+
+
+
+
+@bewilder   /bi'wildə/
+*  ngoại động từ
+- làm bối rối, làm hoang mang, làm lúng túng; làm ngơ ngác
+
+
+
+
+
+@bewilderment   /bi'wildəmənt/
+*  danh từ
+- sự bối rôi, sự hoang mang
+
+
+
+
+
+@bewitch   /bi'witʃ/
+*  ngoại động từ
+- bỏ bùa mê
+- làm say mê, làm mê mẩn, làm say đắm
+- làm cho vô cùng thích thú
+
+
+
+
+
+@bewitching   /bi'witʃiɳ/
+*  tính từ
+- làm say mê, làm mê mẩn, làm say đắm; quyến rũ, mê hồn (sắc đẹp)
+
+
+
+
+
+@biaxial   /bai'æksiəl/
+*  tính từ
+- (vật lý) hai trục
+
+
+
+
+
+@bib   /bib/
+*  danh từ
+- cái yếm dãi (của trẻ con)
+- yếm tạp dề (phần trên của cái tạp dề)
+!to be in one's best bib and tucker
+- diện bảnh thắng bộ đẹp nhất
+*  nội động từ
+- uống nhiều, uống luôn miệng
+
+
+
+
+
+@bibber   /'bibə/
+*  danh từ
+- người nghiện rượu
+
+
+
+
+
+@bible   /'baibl/
+*  danh từ
+- kinh thánh
+
+
+
+
+
+@biblical   /'biblikəl/
+*  tính từ
+- (thuộc) kinh thánh
+
+
+
+
+
+@bibliofilm   /'bibliɔfilm/
+*  danh từ
+- phim sách (phim ảnh chụp lại sách)
+
+
+
+
+
+@buttony   /'bʌtni/
+*  tính từ
+- có nhiều khuy
+- giống cái khuy
+
+
+
+
+
+@buttress   /'bʌtris/
+*  danh từ
+- (kiến trúc) trụ ốp tường, trụ tường
+- núi ngang, hoành sơn
+- (nghĩa bóng) chỗ tựa; sự ủng hộ
+*  ngoại động từ
+- chống đỡ, làm cho vững chắc thêm
+!to buttress up by argument
+- làm cho vững chắc thêm lý lẽ
+
+
+
+
+
+@butty   /'bʌti/
+*  danh từ
+- (thông tục) bạn, bạn thân
+- (ngành mỏ) cai mỏ
+
+
+
+
+
+@butty gang   /'bʌti'gæɳ/
+*  danh từ
+- nhóm người nhận chung một phần việc
+
+
+
+
+
+@butyric   /bju:'tirik/
+*  tính từ
+- (hoá học) butyric
+=butyric acid+ axit butyric
+
+
+
+
+
+@by-lane   /'bailein/
+*  danh từ
+- ngõ hẻm, con đường nhỏ hẻo lánh
+
+
+
+
+
+@by-name   /'baineim/
+*  danh từ
+- tên lóng, tên tục, tên hèm
+
+
+
+
+
+@by-product   /'bai,prɔdəkt/
+*  danh từ
+- sản phẩm phụ
+
+
+
+
+
+@by-road   /'bairoud/
+*  danh từ
+- đường phụ; đường ít người qua lại
+
+
+
+
+
+@by-trade   /'baitreid/
+*  danh từ
+- nghề phụ
+
+
+
+
+
+@cab   /kæb/
+*  danh từ
+- xe tắc xi; xe ngựa thuê
+- (ngành đường sắt) buồng lái
+- cabin, buồng lái (ở xe vận tải)
+*  nội động từ
+- đi xe tắc xi; đi xe ngựa thuê
+
+
+
+
+
+@cab-rank   /'kæbræɳk/
+*  danh từ
+- dãy xe tắc xi chở khách; dãy xe ngựa chở khách
+
+
+
+
+
+@cable-car   /'keiblkɑ:/
+*  danh từ
+- toa (xe kéo bằng dây) cáp
+
+
+
+
+
+@cablegram   /'keiblgræm/
+*  danh từ
+- bức điện xuyên đại dương; điện tín, cáp
+
+
+
+
+
+@cablerailway   /'keibl'reilwei/
+*  danh từ
+- đường sắt cho toa (xe kéo bằng dây) cáp
+
+
+
+
+
+@cabman   /'kæbmən/
+*  danh từ
+- người lái tăc xi; người đánh xe ngựa thuê
+
+
+
+
+
+@capitation   /,kæpi'teiʃn/
+*  danh từ
+- thuế theo đầu người, thuế thân
+
+
+
+
+
+@capitular   /kə'pitjulə/
+*  tính từ
+- (thuộc) tăng hội
+
+
+
+
+
+@capitulate   /kə'pitjuleit/
+*  nội động từ
+- đầu hàng ((thường) là có điều kiện)
+
+
+
+
+
+@chirruper   /'tʃirəpə/
+*  danh từ
+- (từ lóng) người vỗ tay thuê (ở rạp hát)
+
+
+
+
+
+@chirstmas-box   /'krisməsbɔks/
+*  danh từ
+- tiền thưởng Nô-en (cho người đưa thư...)
+
+
+
+
+
+@chisel   /'tʃizl/
+*  danh từ
+- cái đục, cái chàng
+- (the chisel) nghệ thuật điêu khắc
+- (từ lóng) sự lừa đảo
+*  ngoại động từ
+- đục; chạm trổ
+- (từ lóng) lừa đảo
+
+
+
+
+
+@chivalrous   /'ʃivəlrəs/
+*  tính từ
+- (thơ ca) có vẻ hiệp sĩ, có phong cách hiệp sĩ; nghĩa hiệp, hào hiệp
+
+
+
+
+
+@chivalrousness   /'ʃivəlrəsnis/
+*  danh từ
+- tính chất hiệp sĩ; tính nghĩa hiệp, tính hào hiệp
+
+
+
+
+
+@chivalry   /'ʃivəlri/
+*  danh từ
+- phong cách hiệp sĩ
+- tinh thần thượng võ
+- những hiệp sĩ; những người hào hoa phong nhã
+- tác phong lịch sự đối với phụ nữ
+
+
+
+
+
+@chloe   /'klɔ:/
+*  danh từ
+- Strephon and Chloe đôi uyên ương
+
+
+
+
+
+@chlorate   /'klɔ:rit/
+*  danh từ
+- (hoá học) clorat
+
+
+
+
+
+@chloric   /'klɔ:rik/
+*  tính từ
+- cloric
+=chloric acid+ axit cloric
+
+
+
+
+
+@chloride   /'klɔ:raid/
+*  danh từ
+- (hoá học) clorua
+=chloride of lime+ vôi clorua
+
+
+
+
+
+@chlorine   /'klɔ:ri:n/
+*  danh từ
+- (hoá học) clo
+
+
+
+
+
+@chloroform   /'klɔrəfɔ:m/
+*  danh từ
+- cloroform
+!to give chloroform to someone; to put someone under chloroform
+- gây mê cho người nào
+*  ngoại động từ
+- gây mê
+- tẩm clorofom, ngâm clorofom
+
+
+
+
+
+@choir-girl   /'kæaiəgə:l/
+*  danh từ
+- có lễ sinh
+
+
+
+
+
+@choir-master   /'kwaiə,mɑ:stə/
+*  danh từ
+- người chỉ huy hợp xướng
+
+
+
+
+
+@choke-full   /'tʃoukful/
+*  tính từ
+- đầy chật, chật như nêm
+- tắc nghẹt
+
+
+
+
+
+@choke-pear   /'tʃoukpeə/
+*  danh từ
+- lời trách làm cho nghẹn ngào; sự việc làm cho nghẹn ngào
+
+
+
+
+
+@choker   /'tʃoukə/
+*  danh từ
+- người bóp cổ; cái làm nghẹt, cái làm tắc
+- (thông tục) cổ cồn, cổ đứng (áo thầy tu...)
+- (điện học) cuộn cảm kháng ((như) choke)
+
+
+
+
+
+@chokra   /'tʃoukrə/
+*  danh từ
+- Anh-An bồi, người ở
+
+
+
+
+
+@congeries   /kɔn'dʤiəri:z/
+*  danh từ,  số nhiều không đổi
+- mớ, đống, khối
+
+
+
+
+
+@congest   /kən'dʤest/
+*  ngoại động từ (thường) dạng bị động
+- làm đông nghịt, làm tắt nghẽn (đường sá...)
+- (y học) làm sung huyết
+*  nội động từ
+- (y học) bị sung huyết (phổi...)
+
+
+
+
+
+@congested   /kən'dʤestid/
+*  tính từ
+- đông nghịt, chật ních
+=congested streets+ phố phường đông nghịt
+- (y học) sung huyết
+=congested lungs+ phổi bị sung huyết
+
+
+
+
+
+@congestion   /kən'dʤestʃn/
+*  danh từ
+- sự đông nghịt, sự tắt nghẽn (đường sá...)
+=a congestion of the traffic+ sự tắc nghẽn giao thông
+- (y học) sự sung huyết
+
+
+
+
+
+@congestive   /kən'dʤestiv/
+*  tính từ
+- (y học) sung huyết
+=congestive symptoms+ triệu chứng sung huyết
+
+
+
+
+
+@damage control   /'dæmidʤkən'troul/
+*  danh từ
+- (kỹ thuật) công việc sửa chữa từng bộ phận (máy)
+
+
+
+
+
+@damageable   /'dæmidʤəbl/
+*  tính từ
+- có thể bị hư hại, có thể bị hư hỏng
+
+
+
+
+
+@damaging   /'dæmidʤiɳ/
+*  tính từ
+- hại, có hại, gây thiệt hại
+
+
+
+
+
+@daman   /'dæmən/
+*  danh từ
+- (động vật học) con đaman
+
+
+
+
+
+@damascene   /,dæmə'si:n/
+*  ngoại động từ
+- nạm vàng, nạm bạc (vào kim loại)
+
+
+
+
+
+@dampish   /'dæmpiʃ/
+*  tính từ
+- hơi ướt, hơi ẩm
+
+
+
+
+
+@dampishness   /'dæmpiʃnis/
+*  danh từ
+- sự hơi ướt, sự hơi ẩm
+
+
+
+
+
+@dampness   /'dæmpnis/
+*  danh từ
+- sự ẩm ướt
+
+
+
+
+
+@dampy   /'dæmpi/
+*  tính từ
+- ấm, hơi ấm
+- có hơi độc, có khí nổ (mỏ)
+
+
+
+
+
+@damsel   /'dæmzəl/
+*  danh từ
+- (từ cổ,nghĩa cổ); (thơ ca) cô gái, thiếu nữ, trinh nữ
+
+
+
+
+
+@damson   /'dæmzən/
+*  danh từ
+- (thực vật học) cây mận tía
+- quả mận tía
+*  tính từ
+- màu mận tía
+
+
+
+
+
+@damson-cheese   /'dæmzəntʃi:z/
+*  danh từ
+- mứt mận
+
+
+
+
+
+@damson-coloured   /'dæmzən,kʌləd/
+*  tính từ
+- màu mận tía
+
+
+
+
+
+@dan   /dæn/
+*  danh từ
+- (hàng hải)
+- phao đánh dấu chỗ có cá (ở những chỗ biển sâu) ((cũng) dan buoy)
+- hộp đánh dấu vùng đã gỡ mìn (treo ở đầu một cọc dài)
+
+
+
+
+
+@dance   /dɑ:ns/
+*  danh từ
+- sự nhảy múa; sự khiêu vũ
+- bài nhạc nhảy; điệu nhạc khiêu vũ
+- buổi liên hoan khiêu vũ
+
+
+
+
+
+@drencher   /'drentʃə/
+*  danh từ
+- trận mưa rào, trận mưa như trút nước
+- đồ dùng để tọng thuốc cho (súc vật)
+
+
+
+
+
+@dress   /dres/
+*  danh từ
+- quần áo
+=in full dress+ ăn mặc lễ phục
+=in evening dress+ mặc quần áo dự dạ hội (đàn bà); mặc lễ phục (đàn ông)
+=a (the) dress+ áo dài phụ nữ
+- vỏ ngoài, cái bọc ngoài, vẻ ngoài
+
+
+
+
+
+@dress-coat   /'dres'kout/
+*  danh từ
+- áo đuôi én (dự dạ hội)
+
+
+
+
+
+@dress-guard   /'dresgɑ:d/
+*  danh từ
+- lưới xe đạp (để khỏi rách áo dài và váy phụ nữ)
+
+
+
+
+
+@dressage   /dre'sɑ:ʤ/
+*  danh từ
+- sự dạy ngựa
+
+
+
+
+
+@dresser   /'dresə/
+*  danh từ
+- chạn bát đĩa
+- (từ Mỹ,nghĩa Mỹ),  (như) dressing-table
+- người bày biện mặt hàng
+
+
+
+
+
+@dressing-gown   /'dresiɳgaun/
+*  danh từ
+- áo khoác ngoài (mặc ở nhà khi trang sức, sau khi tắm... của đàn bà)
+
+
+
+
+
+@dressing-room   /'dresiɳrum/
+*  danh từ
+- buồng rửa mặt, buồng trang sức (kế bên buồng ngủ)
+
+
+
+
+
+@dressing-station   /'dresiɳ,steiʃn/
+*  danh từ
+- (quân sự) trạm cấp cứu
+
+
+
+
+
+@dressing-table   /'dresiɳ,teibl/
+*  danh từ
+- bàn gương trang điểm ((từ Mỹ,nghĩa Mỹ) (cũng) dresser)
+
+
+
+
+
+@dressmaker   /'dres,meikə/
+*  danh từ
+- thợ may áo đàn bà
+
+
+
+
+
+@dressmaking   /'dres,meikiɳ/
+*  danh từ
+- việc may quần áo đàn bà; nghề may quần áo đàn bà
+
+
+
+
+
+@dressy   /'dresi/
+*  tính từ
+- thích diện; diện sang (người)
+- diện sang trọng (quần áo)
+
+
+
+
+
+@drew   /drɔ:/
+*  danh từ
+- sự kéo; sự cố gắng, sự nỗ lực
+- sức quyến rũ, sức hấp dẫn, sức lôi cuốn; người có sức quyến rũ, vật có sức lôi cuốn
+- sự rút thăm; sự mở số; số trúng
+
+
+
+
+
+@driveway   /'draivwei/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) đường lái xe vào nhà (trong khu vực một toà nhà)
+
+
+
+
+
+@driving force   /'draiviɳfɔ:s/
+*  danh từ
+- lực truyền, động lực
+
+
+
+
+
+@driving-axle   /'draiviɳ,æksl/
+*  danh từ
+- (kỹ thuật) trục dãn động
+
+
+
+
+
+@driving-belt   /'draiviɳbelt/
+*  danh từ
+- (kỹ thuật) curoa truyền
+
+
+
+
+
+@driving-box   /'draiviɳbɔks/
+*  danh từ
+- chỗ ngồi của người đánh xe (xe ngựa, xe bò...)
+
+
+
+
+
+@driving-gear   /'draiviɳgiə/
+*  danh từ
+- (kỹ thuật) bánh răng truyền
+
+
+
+
+
+@driving-wheel   /'draiviɳwi:l/
+*  danh từ
+- (kỹ thuật) bánh xe phát động
+
+
+
+
+
+@drizzle   /'drizl/
+*  danh từ
+- mưa phùn, mưa bụi
+*  nội động từ
+- mưa phùn, mưa bụi
+=it drizzles+ trời mưa phùn
+
+
+
+
+
+@drizzly   /'drizli/
+*  tính từ
+- có mưa phùn, có mưa bụi
+=drizzly weather+ thời tiết mưa phùn
+=drizzly day+ ngày mưa phùn
+
+
+
+
+
+@drogher   /'drougə/
+*  danh từ
+- tàu chở hàng dọc bờ biển (ở đảo Ăng-ti)
+
+
+
+
+
+@drogue   /droug/
+*  danh từ
+- phao (ở đầu lao móc đánh cá voi)
+- neo phao
+
+
+
+
+
+@droit   /drɔit/
+*  danh từ
+- (pháp lý) quyền
+!droits of Admiralty
+- (hàng hải) tiền bán được những thứ bắt được của địch
+
+
+
+
+
+@droll   /droul/
+*  tính từ
+- khôi hài, buồn cười, như trò hề
+- kỳ cục, kỳ quặc, kỳ lạ
+*  danh từ
+- (từ hiếm,nghĩa hiếm) anh hề; người làm trò khôi hài
+*  nội động từ,  (từ hiếm,nghĩa hiếm)
+- đóng vai hề; làm trò hề
+- (+ with,  at,  on) đùa cợt, làm trò khôi hài
+
+
+
+
+
+@drollery   /'drouləri/
+*  danh từ
+- trò hề; trò khôi hài
+
+
+
+
+
+@drollness   /'droulnis/
+*  danh từ
+- tính khôi hài, tính hề
+- tính kỳ cục, tính kỳ quặc, tính kỳ lạ
+
+
+
+
+
+@drome   /droum/
+*  danh từ
+- (thông tục) sân bay ((viết tắt) của aerodrome)
+
+
+
+
+
+@dromedary   /'drʌmədəri/
+*  danh từ
+- (động vật học) lạc đà một bướu
+
+
+
+
+
+@dromond   /'drɔmənd/
+*  danh từ
+- (sử học) thuyền chiến; thuyền buồm lớn (thời Trung cổ)
+
+
+
+
+
+@drone   /droun/
+*  danh từ
+- (động vật học) ong mật đực
+- kẻ lười biếng, kẻ ăn không ngồi rồi
+- tiếng o o, tiếng vo ve
+
+
+
+
+
+@duumvirate   /dju:'ʌmvirit/
+*  danh từ
+- (sử học) chế độ nhị hùng
+
+
+
+
+
+@duvet   /'dju:vei/
+*  danh từ
+- chăn lông vịt
+
+
+
+
+
+@dux   /dʌks/
+*  danh từ
+- (Ê-cốt) học sinh nhất lớp
+
+
+
+
+
+@dwale   /dweil/
+*  danh từ
+- (thực vật học) cây belađon, cây cà dược
+
+
+
+
+
+@dwarf   /dwɔ:f/
+*  tính từ
+- lùn, lùn tịt; nhỏ xíu; còi cọc
+*  danh từ
+- người lùn, con vật lùn, cây lùn
+
+
+
+
+
+@dynamic   /dai'næmik/
+*  tính từ ((cũng) dynamical)
+- (thuộc) động lực
+- (thuộc) động lực học
+- năng động, năng nổ, sôi nổi
+- (y học) (thuộc) chức năng
+*  danh từ
+- động lực
+
+
+
+
+
+@dynamical   /dai'næmikəl/
+*  tính từ
+- (như) dynamic
+- (triết học) (thuộc) thuyết động học
+
+
+
+
+
+@dynamics   /dai'næmiks/
+*  danh từ,  số nhiều dùng như số ít
+- động lực học
+
+
+
+
+
+@dynamism   /'dainəmizm/
+*  danh từ
+- (triết học) thuyết động lực
+
+
+
+
+
+@dynamist   /'dainəmist/
+*  danh từ
+- nhà động lực học
+- (triết học) người theo thuyết động lực
+
+
+
+
+
+@dynamite   /'dainəmait/
+*  danh từ
+- đinamit
+*  ngoại động từ
+- phá bằng đinamit
+- (từ Mỹ,nghĩa Mỹ) làm thất bại hoàn toàn, phá huỷ hoàn toàn
+
+
+
+
+
+@dynamiter   /'dainəmaitə/
+*  danh từ
+- người phá bằng đinamit
+
+
+
+
+
+@dynamitic   /,dainə'mitik/
+*  tính từ
+- (thuộc) đinamit
+
+
+
+
+
+@dynamo   /'dainəmou/
+*  danh từ,  số nhiều dynamos
+- đinamô, máy phát điện
+
+
+
+
+
+@dynamometer   /,dainə'mɔmitə/
+*  danh từ
+- cái đo lực
+
+
+
+
+
+@dynamometric   /,dainəmou'metrik/
+*  tính từ
+- (thuộc) cái đo lực; (thuộc) phép đo lực
+
+
+
+
+
+@dynamometry   /,dainə'mɔmitri/
+*  danh từ
+- phép đo lực
+
+
+
+
+
+@dynamotor   /'dainə,moutə/
+*  danh từ
+- (điện học) đinamôtơ
+
+
+
+
+
+@dynast   /'dinəst/
+*  danh từ
+- người trị vì vua (của một triều đại)
+
+
+
+
+
+@dynastic   /di'næstik/
+*  tính từ
+- (thuộc) triều đại, (thuộc) triều vua
+
+
+
+
+
+@dynasty   /'dinəsti/
+*  danh từ
+- triều đại, triều vua
+
+
+
+
+
+@dyne   /dain/
+*  danh từ
+- (vật lý) đyn
+
+
+
+
+
+@eagerness   /'i:gənis/
+*  danh từ
+- sự ham, sự háo hức, sự hâm hở, sự thiết tha, sự say mê; tính hám
+
+
+
+
+
+@eagle   /'i:gl/
+*  danh từ
+- (động vật học) chim đại bàng
+- hình đại bàng (ở huy hiệu, bục giảng kinh, quốc huy Mỹ...)
+
+
+
+
+
+@ear-drops   /'iədrɔps/
+*  danh từ
+- thuốc nhỏ tai
+
+
+
+
+
+@ear-drum   /'iədrʌm/
+*  danh từ
+- (giải phẫu) màng tai
+
+
+
+
+
+@ear-hole   /'iəhoul/
+*  danh từ
+- lỗ tai
+
+
+
+
+
+@ear-phone   /'iəfoun/
+*  danh từ
+- ống nghe
+
+
+
+
+
+@ear-pick   /'iəpik/
+*  danh từ
+- cái lấy ráy tai
+
+
+
+
+
+@ear-splitting   /'iə,splitiɳ/
+*  tính từ
+- điếc tai, inh tai, chối tai (tiếng động...)
+
+
+
+
+
+@ear-tab   /'iətæb/
+*  danh từ
+- cái che tai (ở mũ)
+
+
+
+
+
+@ear-trumpet   /'iə,trʌmpit/
+*  danh từ
+- ống nghe (của người nghễnh ngãng)
+
+
+
+
+
+@ear-wax   /'iəwæks/
+*  danh từ
+- ráy tai
+
+
+
+
+
+@earing   /'iəriɳ/
+*  danh từ
+- (hàng hải) dây tai (dùng để buộc góc buồm trên vào cột buồm)
+
+
+
+
+
+@earl   /ə:l/
+*  danh từ
+- bá tước (ở Anh) ((xem) count)
+
+
+
+
+
+@earldom   /'ə:ldəm/
+*  danh từ
+- lãnh địa bá tước, đất bá tước
+- tước bá
+
+
+
+
+
+@earless   /'iəlis/
+*  tính từ
+- không có tai
+- không có quai (bình đựng nước...)
+- không có tai nhạc
+
+
+
+
+
+@earth-flax   /'ə:θflæks/
+*  danh từ
+- (khoáng chất) Amiăng, thạch miên
+
+
+
+
+
+@earth-nut   /'ə:θnʌt/
+*  danh từ (thực vật học)
+- nấm cục, nấm tơruyp
+- lạc; cây lạc
+=earth-nut oil+ dầu lạc
+
+
+
+
+
+@earth-worm   /'ə:θwə:m/
+*  danh từ
+- giun đất
+- (nghĩa bóng) người quỵ luỵ, người khúm núm
+
+
+
+
+
+@earthen   /'ə:θən/
+*  tính từ
+- bằng đất, bằng đất nung
+
+
+
+
+
+@easterly   /'i:stəli/
+*  tính từ
+- đông
+=easterly wind+ gió đông
+*  phó từ
+- về hướng đông; từ hướng đông
+
+
+
+
+
+@eastern   /'i:stən/
+*  tính từ
+- đông
+*  danh từ
+- người miền đông ((cũng) easterner)
+- (tôn giáo) tín đồ nhà thờ chính thống
+
+
+
+
+
+@easterner   /'i:stənə/
+*  danh từ
+- người miền đông ((cũng) eastern)
+- Easterner dân các bang miền đông nước Mỹ
+
+
+
+
+
+@easternmost   /'i:stənmoust/
+*  tính từ
+- cực đông
+
+
+
+
+
+@easting   /'i:stiɳ/
+*  danh từ
+- (hàng hải) chặng đường đi về phía đông
+- hướng đông
+
+
+
+
+
+@eastward   /'i:stwəd/
+*  danh từ
+- hướng đông
+*  tính từ & phó từ
+- về phía đông
+
+
+
+
+
+@eater   /'i:tə/
+*  danh từ
+- người ăn
+=a big eater+ người ăn khoẻ
+- quả ăn tươi
+
+
+
+
+
+@eatery   /'i:təri/
+*  danh từ
+- (từ lóng) (như) eating-house
+
+
+
+
+
+@eating   /'i:tiɳ/
+*  danh từ
+- sự ăn
+- thức ăn
+=carps are good eating+ cá chép là thức ăn ngon
+
+
+
+
+
+@eating hall   /'i:tiɳhɔ:l/
+*  danh từ
+- phòng ăn công cộng
+
+
+
+
+
+@eating house   /'i:tiɳhaus/
+*  danh từ
+- nhà ăn; hàng quán, quán ăn
+
+
+
+
+
+@eats   /i:ts/
+*  danh từ số nhiều
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thức ăn, đồ ăn
+
+
+
+
+
+@eau-de-cologne   /'oudəkə'loun/
+*  danh từ
+- nước thơm côlôn (gội đầu, xức tóc...)
+
+
+
+
+
+@eau-de-vie   /'oudə'vi:/
+*  danh từ
+- rượu mạnh
+
+
+
+
+
+@eaves   /i:vz/
+*  danh từ số nhiều
+- mái chìa
+
+
+
+
+
+@eavesdrop   /'i:vzdrɔp/
+*  ngoại động từ
+- nghe trộm
+
+
+
+
+
+@eavesdropper   /'i:vzdrɔpə/
+*  danh từ
+- người nghe trộm
+
+
+
+
+
+@ecclesiology   /i,kli:zi'ɔlədʤi/
+*  danh từ
+- khoa nhà thờ, khoa xây dựng và trang trí nhà thờ
+
+
+
+
+
+@ecdysiast   /'ekdisiəst/
+*  danh từ
+- (như) strip-teasser
+
+
+
+
+
+@ecdysis   /'ekdisis/
+*  danh từ (động vật học)
+- sự lột (da rắn)
+- da lột (rắn...)
+
+
+
+
+
+@echelon   /'eʃəlɔn/
+*  danh từ
+- sự dàn quân theo hình bậc thang
+- cấp bậc (dân sự)
+*  ngoại động từ
+- dàn quân theo hình bậc thang
+
+
+
+
+
+@echidna   /e'kidnə/
+*  danh từ
+- (động vật học) thú lông nhím (đơn huyệt)
+
+
+
+
+
+@echini   /e'kainəs/
+*  danh từ,  số nhiều echini
+- (động vật học) con cầu gai
+- (kiến trúc) đường sống trâu
+
+
+
+
+
+@echinoderm   /i'kainədə:m, 'ekinədə:m/
+*  danh từ
+- (động vật học) động vật da gai
+
+
+
+
+
+@echinus   /e'kainəs/
+*  danh từ,  số nhiều echini
+- (động vật học) con cầu gai
+- (kiến trúc) đường sống trâu
+
+
+
+
+
+@eclogue   /'eklɔg/
+*  danh từ
+- (văn học) Eclôgơ (một loại thơ đồng quê ngắn)
+
+
+
+
+
+@ecologist   /i'kɔlədʤist/
+*  danh từ
+- nhà sinh thái học
+
+
+
+
+
+@economic   /,i:kə'nɔmik/
+*  tính từ
+- kinh tế
+- mang lợi, có lợi (việc kinh doanh...)
+
+
+
+
+
+@edge-bone   /'eitʃboun/
+*  danh từ
+- xương đùi (bò)
+
+
+
+
+
+@edge-tool   /'edʤtu:l/
+*  danh từ
+- dụng cụ có lưỡi sắc, dụng cụ cắt
+=to play with edge-tool+ chơi với lửa, chơi dao (có ngày đứt tay)
+
+
+
+
+
+@edged   /edʤ/
+*  tính từ
+- sắc
+- có lưỡi
+- có viền (áo...), có bờ, có gờ, có cạnh, có rìa, có lề
+
+
+
+
+
+@edged stone   /'edʤstoun/
+*  danh từ
+- (kỹ thuật) đá cối
+- (kiến trúc) đá ria, đá gờ
+
+
+
+
+
+@edged tool   /'edʤtu:l/
+*  danh từ
+- dụng cụ có lưỡi sắc, dụng cụ cắt
+=to play with edge-tool+ chơi với lửa, chơi dao (có ngày đứt tay)
+
+
+
+
+
+@enhance   /in'hɑ:ns/
+*  ngoại động từ
+- làm tăng, nâng cao, đề cao, làm nổi bật (đức tính, quyền hạn...)
+- tăng (giá...)
+
+
+
+
+
+@enhancement   /in'hɑ:nsmənt/
+*  danh từ
+- sự làm tăng, sự nâng cao, sự đề cao, sự làm nổi bật
+- sự tăng
+
+
+
+
+
+@enharmonic   /,enhɑ:'mɔnik/
+*  tính từ
+- (âm nhạc) trùng, trùng âm
+
+
+
+
+
+@enigma   /i'nigmə/
+*  danh từ
+- điều bí ẩn
+- người khó hiểu
+
+
+
+
+
+@enigmatize   /i'nigmətaiz/
+*  ngoại động từ
+- làm thành bí ẩn, làm thành khó hiểu
+
+
+
+
+
+@expedite   /'ekspidait/
+*  ngoại động từ
+- xúc tiến
+- thanh toán, giải quyết (công việc)
+
+
+
+
+
+@expedition   /,ekspi'diʃn/
+*  danh từ
+- cuộc viễn chinh; đội viễn chinh
+- cuộc thám hiểm; đoàn thám hiểm
+- cuộc hành trình, cuộc đi; đoàn người đi (trong cuộc hành trình)
+- tính chóng vánh, tính mau lẹ, tính khẩn trương
+
+
+
+
+
+@expeditionary   /,ekspi'diʃnəri/
+*  tính từ
+- viễn chinh
+=expeditionary forces+ quân viễn chinh
+- (thuộc) cuộc thám hiểm, (thuộc) cuộc hành trình, (thuộc) cuộc đi; thành cuộc thám hiểm, thành cuộc hành trình, thành cuộc đi
+
+
+
+
+
+@expeditionist   /,ekspi'diʃnist/
+*  danh từ
+- người tham gia cuộc viễn chinh, người tham gia cuộc thám hiểm
+- người tham gia cuộc hành trình, người tham gia cuộc đi
+
+
+
+
+
+@expeditious   /,ekspi'diʃəs /
+*  tính từ
+- chóng vánh, mau lẹ, khẩn trương
+- tính dễ thực hiện chóng vánh
+
+
+
+
+
+@expeditiousness   /,ekspi'diʃəsnis /
+*  danh từ
+- tính chóng vánh, tính mau lẹ, tính khẩn trương
+
+
+
+
+
+@expel   /iks'pel/
+*  ngoại động từ
+- trục xuất, đuổi, làm bật ra, tống ra
+=to be expelled [from] the school+ bị đuổi ra khỏi trường
+
+
+
+
+
+@expellable   /iks'peləbl/
+*  tính từ
+- có thể bị trục xuất, có thể bị đuổi ra, có thể bị tống ra
+- đáng trục xuất, đáng đuổi ra, đáng tống ra
+
+
+
+
+
+@expellee   /,ekspe'li:/
+*  danh từ
+- người bị trục xuất, người bị đuổi ra
+
+
+
+
+
+@expellent   /iks'pelənt/
+*  tính từ
+- để tống ra, để bật ra
+
+
+
+
+
+@expend   /iks'pend/
+*  ngoại động từ
+- tiêu, tiêu dùng (tiền...)
+- dùng hết, dùng cạn
+
+
+
+
+
+@expiate   /'ekspieit/
+*  ngoại động từ
+- chuộc, đền (tội)
+
+
+
+
+
+@expiation   /,ekspi'eiʃn/
+*  danh từ
+- sự chuộc, sự đền (tội)
+
+
+
+
+
+@expiator   /'ekspieitə/
+*  danh từ
+- người chuộc, người đền (tội)
+
+
+
+
+
+@expiatory   /'ekspiətəri/
+*  tính từ
+- để chuộc, để đền (tội)
+
+
+
+
+
+@expiration   /,ekspaiə'reiʃn/
+*  danh từ
+- sự thở ra
+- sự thở hắt ra; sự tắt thở, sự chết
+- sự mãn hạn, sự kết thúc
+
+
+
+
+
+@filarial   /fi'leəriəl/
+*  danh từ
+- (thuộc) giun chỉ; có tính chất giun chỉ
+- có giun chỉ; do giun chỉ;
+
+
+
+
+
+@filariasis   /,filə'raiəsis/
+*  danh từ
+- (y học) bệnh giun chỉ
+
+
+
+
+
+@filature   /'filətʃə/
+*  danh từ
+- sự kéo sợi, sự xe chỉ
+- máy kéo sợi
+- xưởng kéo sợi
+
+
+
+
+
+@filbert   /'filbə:t/
+*  danh từ
+- hạt phỉ
+- (thực vật học) cây phỉ
+
+
+
+
+
+@filch   /filtʃ/
+*  ngoại động từ
+- ăn cắp, xoáy, móc túi
+
+
+
+
+
+@filcher   /filtʃə/
+*  danh từ
+- kẻ cắp, kẻ móc túi
+
+
+
+
+
+@filching   /filtʃiɳ/
+*  danh từ
+- sự ăn cắp, sự móc túi
+
+
+
+
+
+@file   /fail/
+*  danh từ
+- cái giũa
+- (từ lóng) thằng cha láu cá, thằng cha quay quắt
+=a deep (an old) file+ thằng cha quay quắt
+!to bite (gnaw) file
+- lấy thúng úp voi; lấy gậy chọc trời
+
+
+
+
+
+@filer   /'faifə/
+*  danh từ
+- người thổi sáo, người thổi địch, người thổi tiêu
+
+
+
+
+
+@filet   /fi'lei/
+*  danh từ
+- cái mạng, cái lưới
+- thịt thăn
+
+
+
+
+
+@filial   /'filjəl/
+*  tính từ
+- (thuộc) con cái; (thuộc) đạo làm con
+=filial respect+ lòng cung kính của con cái đối với cha mẹ
+=filial duty+ nhiệm vụ làm con
+
+
+
+
+
+@filialness   /'filjəlnis/
+*  danh từ
+- sự hiếu thảo
+
+
+
+
+
+@filicidal   /,fili'saidl/
+*  tính từ
+- (thuộc) tội giết con
+
+
+
+
+
+@filicide   /'filisaid/
+*  danh từ
+- tội giết con
+- người giết con
+
+
+
+
+
+@filiform   /'failifɔ:m/
+*  tính từ
+- hình chỉ
+
+
+
+
+
+@filing   /'failiɳ/
+*  danh từ
+- sự giũa
+- (số nhiều) mạt giũa
+
+
+
+
+
+@filing machine   /'failiɳmə'ʃi:m/
+*  danh từ
+- máy giũa
+
+
+
+
+
+@filipino   /,fili'pi:nou/
+*  danh từ
+- người Phi-líp-pin
+
+
+
+
+
+@fill   /fil/
+*  danh từ
+- cái làm đầy; cái đủ để nhồi đầy
+=a fill of tobacco+ mồi thuốc (đủ để nhồi đầy tẩu)
+- sự no nê
+
+
+
+
+
+@filter-tipped   /'filtətipt/
+*  tính từ
+- có đầu lọc (điếu thuốc lá)
+=filter-tipped cigarettes+ thuốc lá điếu có đầu lọc
+
+
+
+
+
+@filterability   /,filtərə'biliti/
+*  danh từ
+- tính có thể lọc
+
+
+
+
+
+@filterable   /'filtərəbl/
+*  tính từ
+- có thể lọc được
+
+
+
+
+
+@fingerling   /'fiɳgəliɳ/
+*  danh từ
+- vật nhỏ
+- (động vật học) cá hồi nhỏ
+
+
+
+
+
+@fingerprint   /'fiɳgəprint/
+*  ngoại động từ
+- lấy dấu lăn ngón tay, lấy dấu điềm chỉ
+
+
+
+
+
+@finial   /'fainiəl/
+*  danh từ
+- (kiến trúc) hình chạm đầu mái
+
+
+
+
+
+@fire-basket   /'faiə,bɑ:skit/
+*  danh từ
+- lò than hồng
+
+
+
+
+
+@fire-bomb   /'faiəbɔm/
+*  danh từ
+- bom cháy
+
+
+
+
+
+@fire-brand   /'faiəbrænd/
+*  danh từ
+- củi đang cháy dở; khúc củi đang cháy dở
+- kẻ xúi giục bạo động; kẻ đâm bị thóc chọc bị gạo
+
+
+
+
+
+@fire-break   /'faiəbreik/
+*  danh từ
+- đai trắng phòng lửa (ở rừng, cánh đồng cỏ...)
+
+
+
+
+
+@fire-brick   /'faiəbrik/
+*  danh từ
+- gạch chịu lửa
+
+
+
+
+
+@fire-brigade   /'faiəbri,geid/
+*  danh từ
+- đội chữa cháy ((cũng) fire-company)
+
+
+
+
+
+@fire-bug   /'faiəbʌg/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) con đom đóm
+- (từ Mỹ,nghĩa Mỹ) người mắc chứng cuồng đốt nhà; người cố ý đốt nhà
+
+
+
+
+
+@fire-clay   /'faiəklei/
+*  danh từ
+- đất sét chịu lửa
+
+
+
+
+
+@gastroenteritis   /'gæstrou,entə'raitis/
+*  danh từ
+- (y học) viêm dạ dày ruột
+
+
+
+
+
+@gastroscope   /'gæstrəskoup/
+*  danh từ
+- (y học) ống soi dạ dày
+
+
+
+
+
+@gastrotomy   /gæs'trɔtəmi/
+*  danh từ
+- (y học) thủ thuật mở dạ dày
+
+
+
+
+
+@gat   /gæt/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) súng lục
+
+
+
+
+
+@gate   /geit/
+*  danh từ
+- cổng
+- số người mua vé vào xem (một trận đấu thể thao...)
+- tiền mua vé (trận đấu thể thao...) ((cũng) gate-money)
+- cửa đập, cửa cống
+
+
+
+
+
+@gate-legged   /'geitlegd/
+*  tính từ
+- gate-legged table bàn cánh lật
+
+
+
+
+
+@gate-meeting   /'geit,mi:tiɳ/
+*  danh từ
+- cuộc họp có lấy tiền vào cửa
+
+
+
+
+
+@gate-money   /'geit,mʌni/
+*  danh từ
+- tiền mua vé (trận đấu thể thao...) ((cũng) gate)
+
+
+
+
+
+@gate-post   /'geitpoust/
+*  danh từ
+- cột cổng
+!between you and the gate-post
+- hết sức bí mật, chỉ có ta biết với nhau
+
+
+
+
+
+@gatehouse   /'geithaus/
+*  danh từ
+- nhà ở cổng (công viên...)
+- chòi (thường để giam người trên cổng thành)
+
+
+
+
+
+@gateway   /'geitwei/
+*  danh từ
+- cổng vào ((nghĩa đen) & (nghĩa bóng))
+
+
+
+
+
+@gathers   /'gæðəz/
+*  danh từ
+- nếp chun (áo, quần)
+
+
+
+
+
+@gauche   /gouʃ/
+*  tính từ
+- vụng về
+
+
+
+
+
+@gaud   /gɔ:d/
+*  danh từ
+- đồ trang trí loè loẹt, đồ trang hoàng loè loẹt; đồ trang sức loè loẹt
+- (số nhiều) đình đám, hội hè
+
+
+
+
+
+@gaudiness   /'gɔ:dinis/
+*  danh từ
+- vẻ loè loẹt, vẻ hoa hoè hoa sói
+- tính cầu kỳ, tính hoa mỹ (văn)
+
+
+
+
+
+@gaur   /gauə/
+*  danh từ
+- (động vật học) con minh (một loài bò rừng)
+
+
+
+
+
+@gauss   /gaus/
+*  danh từ
+- (vật lý) Gaoxơ
+
+
+
+
+
+@gauze   /gɔ:z/
+*  danh từ
+- sa, lượt
+- (y học) gạc (để buộc vết thương)
+- màn sương mỏng; làn khói nhẹ
+- (kỹ thuật) lưới thép mịn
+
+
+
+
+
+@gauzy   /'gɔ:zi/
+*  tính từ
+- mỏng nhẹ như sa
+
+
+
+
+
+@gave   /giv/
+*  động từ gave,  given
+- cho, biếu, tặng, ban
+=to give a handsome present+ tặng một món quà đẹp
+- cho, sinh ra, đem lại
+=to give profit+ sinh lãi
+
+
+
+
+
+@gavotte   /gə'vɔt/
+*  danh từ
+- điệu nhảy gavôt
+- nhạc cho điệu nhảy gavôt
+
+
+
+
+
+@gawk   /gɔ:k/
+*  danh từ
+- người lóng ngóng
+- người nhút nhát rụt rè
+*  nội động từ
+- trố mắt ra nhìn một cách ngớ ngẩn
+
+
+
+
+
+@gawkiness   /gɔ:kinis/
+*  danh từ
+- sự lóng ngóng
+- tính nhút nhát rụt rè
+
+
+
+
+
+@gawky   /'gɔ:ki/
+*  tính từ
+- lóng ngóng
+- nhút nhát rụt rè
+*  danh từ
+- (như) gawk
+
+
+
+
+
+@gay   /gei/
+*  tính từ
+- vui vẻ, vui tươi; hớn hở
+
+
+
+
+
+@gemmiferous   /dʤe'mifərəs/
+*  tính từ
+- có ngọc
+- có mầm
+
+
+
+
+
+@gemmiparous   /dʤe'mipərəs/
+*  tính từ (sinh vật học)
+- sinh mầm
+- sinh sản bằng mầm
+
+
+
+
+
+@genocide   /'dʤenousaid/
+*  danh từ
+- tội diệt chủng
+
+
+
+
+
+@genotype   /'dʤenoutaip/
+*  danh từ
+- (sinh vật học) kiểu di truyền
+
+
+
+
+
+@genre   /ʤỴ:ɳr/
+*  danh từ
+- loại, thể loại
+
+
+
+
+
+@gent   /dʤent/
+*  danh từ
+- (viết tắt) của gentleman
+- nhuôi &, ngài
+
+
+
+
+
+@good-neighbourly   /'gud'neibəli/
+*  tính từ
+- có quan hệ láng giềng tốt
+
+
+
+
+
+@good-tempered   /'gud'tempəd/
+*  tính từ
+- thuần tính, thuần hậu
+
+
+
+
+
+@goodish   /'gudiʃ/
+*  tính từ
+- khá tốt, kha khá
+=it's a goodish step from here+ từ đây đến đấy cũng khá xa
+
+
+
+
+
+@goodly   /'gudli/
+*  tính từ
+- đẹp, có duyên
+- to tát, to lớn, đáng kể)
+-(mỉa mai) đẹp gớm, to tát gớm
+
+
+
+
+
+@gooey   /'gu:i:/
+*  tính từ (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- dính nhớp nháp
+- sướt mướt
+
+
+
+
+
+@goof   /gu:f/
+*  danh từ
+- (từ lóng) người ngu, người ngốc
+
+
+
+
+
+@goofy   /'gu:fi/
+*  tính từ
+- (từ lóng) ngu, ngốc
+
+
+
+
+
+@goon   /gu:n/
+*  danh từ (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- người ngu đần, người ngu ngốc
+- kẻ khủng bố thuê (được thuê tiền để khủng bố anh em công nhân)
+
+
+
+
+
+@goosander   /gu:'sændə/
+*  danh từ
+- (động vật học) vịt mỏ nhọn
+
+
+
+
+
+@gormandizer   /'gɔ:məndaizə/
+*  danh từ
+- người phàm ăn
+
+
+
+
+
+@gormless   /'gɔ:mlis/
+*  tính từ
+- (thực vật học) ngu xuẩn, vô ý thức
+
+
+
+
+
+@gorse   /gɔ:s/
+*  danh từ
+- (thực vật học) cây kim tước
+
+
+
+
+
+@gorsy   /'gɔ:si/
+*  tính từ
+- có nhiều cây kim tước
+
+
+
+
+
+@gory   /'gɔ:ri/
+*  tính từ
+- dây đầy máu; vấy máu, đẫm máu
+- (thơ ca) đỏ như máu
+
+
+
+
+
+@gosh   /gɔʃ/
+*  thán từ
+- by gosh! thật kỳ quá! Kỳ chưa!
+
+
+
+
+
+@goshawk   /'gɔshɔ:k/
+*  danh từ
+- (động vật học) chim ó
+
+
+
+
+
+@gosling   /'gɔzliɳ/
+*  danh từ
+- ngỗng con, ngỗng non
+
+
+
+
+
+@graceful   /'greisful/
+*  tính từ
+- có duyên, duyên dáng, yêu kiều
+- phong nhã, thanh nhã
+
+
+
+
+
+@gracefulness   /'greisfulnis/
+*  danh từ
+- vẻ duyên dáng, vẻ yêu kiều
+- vẻ phong nhã, vẻ thanh nhã
+
+
+
+
+
+@graceless   /'greislis/
+*  danh từ
+- bất nhã, khiếm nhã; trơ tráo
+=graceless behaviour+ cách đối xử bất nhã
+- (từ hiếm,nghĩa hiếm) vô duyên
+- (từ cổ,nghĩa cổ);(đùa cợt) đồi truỵ
+
+
+
+
+
+@gracile   /'græsil/
+*  tính từ
+- mảnh dẻ, thanh thanh
+
+
+
+
+
+@gracility   /grə'siliti/
+*  danh từ
+- vẻ mảnh dẻ, vẻ thanh thanh
+
+
+
+
+
+@gracious   /'greiʃəs/
+*  tính từ
+- thanh thanh, lịch sự
+- có lòng tốt, tử tế
+
+
+
+
+
+@grains   /greinz/
+*  danh từ,  số nhiều (thường) dùng như số ít
+- xiên đâm cá
+
+
+
+
+
+@grainy   /'greini/
+*  tính từ
+- có hạt, nhiều hạt
+- sần da
+
+
+
+
+
+@gram   /græm/
+*  danh từ
+- (như) gramme
+- (thực vật học) đậu Thổ-nhĩ-kỳ
+- đậu xanh
+
+
+
+
+
+@gram molecule   /'græm'mɔlikju:l/
+*  danh từ
+- (hoá học) phân tử gam
+
+
+
+
+
+@gram-negative   /'græm'negətiv/
+*  tính từ
+- (y học) gam âm
+
+
+
+
+
+@gram-positive   /'græm'pɔzətiv/
+*  tính từ
+- (y học) gam dương
+
+
+
+
+
+@hand-barrow   /'hænd,bærou/
+*  danh từ
+- cáng, băng ca
+- xe ba gác
+
+
+
+
+
+@hand-canter   /'hænd,kæntə/
+*  danh từ
+- nước kiệu nhỏ (ngựa)
+
+
+
+
+
+@hand-gallop   /'hænd,gæləp/
+*  danh từ
+- nước phi nhỏ (của ngựa)
+
+
+
+
+
+@hand-grenade   /'hændgri,neid/
+*  danh từ
+- (quân sự) thủ pháo
+
+
+
+
+
+@handbook man   /'hændbuk'mæn/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) tay đánh cá ngựa chuyên nghiệp
+
+
+
+
+
+@handcar   /'hændkɑ:/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) xe goòng nhỏ
+
+
+
+
+
+@handcart   /'hændkɑ:t/
+*  danh từ
+- xe nhỏ đẩy tay, xe nhỏ kéo bằng tay
+- xe ba gác
+
+
+
+
+
+@handcuff   /'hændkʌʃ/
+*  danh từ,  (thường) số nhiều
+- khoá tay, xích tay
+*  ngoại động từ
+- khoá tay, xích tay (ai)
+
+
+
+
+
+@hangman   /'hæɳmən/
+*  danh từ
+- người treo cổ (những kẻ phạm tội)
+
+
+
+
+
+@hangnail   /'hæɳneil/
+*  danh từ
+- chỗ xước mang rô (ở cạnh móng tay)
+
+
+
+
+
+@hangout   /'hæɳ'aut/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) nơi lui tới thường xuyên
+
+
+
+
+
+@hank   /hæɳk/
+*  danh từ
+- nùi, con (sợi, len)
+- (hàng hải) vòng sắt, vòng dây (để móc buồm)
+
+
+
+
+
+@hanker   /hæɳkə/
+*  nội động từ ((thường) + after)
+- ao ước, khao khát, thèm muốn
+=to hanker after something+ khao khát cái gì
+
+
+
+
+
+@hankering   /hæpniɳ/
+*  danh từ
+- sự ao ước, sự khao khát, sự thèm muốn
+
+
+
+
+
+@hanky   /'hæɳki/
+*  danh từ
+- (thông tục) khăn tay, khăn mùi soa
+
+
+
+
+
+@hanky-panky   /'hæɳki'pæɳki/
+*  danh từ
+- trò bài tây; trò bịp bợm
+
+
+
+
+
+@hansard   /'hænsəd/
+*  danh từ
+- biên bản chính thức về các cuộc họp nghị viện (Anh)
+
+
+
+
+
+@hansardize   /'hænsədaiz/
+*  ngoại động từ
+- đưa cho (một nghị sĩ) đối chiếu lại những lời đã phát biểu
+
+
+
+
+
+@haphazard   /'hæp'hæzəd/
+*  danh từ
+- sự may rủi, sự ngẫu nhiên, sự tình cờ
+=at (by) haphazard+ ngẫu nhiên, tình cờ
+*  tính từ & phó từ
+- may rủi, ngẫu nhiên, tình cờ
+
+
+
+
+
+@hapless   /'hæplis/
+*  tính từ
+- rủi ro, không may
+
+
+
+
+
+@haplography   /hæp'lɔgrəfi/
+*  danh từ
+- lối viết lược âm tiết trùng (ví dụ phylology viết là philogy)
+
+
+
+
+
+@haply   /'hæpli/
+*  phó từ
+- (từ cổ,nghĩa cổ) may rủi, ngẫu nhiên, tình cờ
+- có thể, có lẽ
+
+
+
+
+
+@haras   /'hærəs/
+*  danh từ
+- trại ngựa giống
+
+
+
+
+
+@harass   /'hærəs/
+*  ngoại động từ
+- gây ưu phiền, gây lo lắng; quấy rầy, phiền nhiễu
+- quấy rối
+=to harass the enemy forces+ quấy rối quân địch
+
+
+
+
+
+@harassment   /'hærəsmənt/
+*  danh từ
+- sự quấy rầy, sự phiền nhiễu; sự lo lắng ưu phiền
+- sự quấy rối (quân địch)
+
+
+
+
+
+@hard ball   /'hɑ:d'bɔ:l/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (thể dục,thể thao) bóng chày
+
+
+
+
+
+@hard board   /'hɑ:dbɔ:d/
+*  danh từ
+- phiến gỗ ép
+
+
+
+
+
+@hard coal   /'hɑ:d'koul/
+*  danh từ
+- Antraxit
+
+
+
+
+
+@hard core   /'hɑ:d'kɔ:/
+*  danh từ
+- nhóm nòng cốt trung kiên, lực lượng nòng cốt trung kiên
+
+
+
+
+
+@hard court   /'hɑ:d'kɔ:t/
+*  danh từ
+- (thể dục,thể thao) sân cứng (xi măng, đất nện... đối lại với sân cỏ)
+
+
+
+
+
+@hard labour   /'hɑ:d'leibə/
+*  danh từ
+- khổ sai
+
+
+
+
+
+@hard tack   /'hɑ:d'tæk/
+*  danh từ
+- (hàng hải) bánh quy khô
+
+
+
+
+
+@impala   /im'pɑ:lə/
+*  danh từ
+- (động vật học) linh dương Châu phi
+
+
+
+
+
+@impaler   /im'peilə/
+*  danh từ
+- người xiên qua
+
+
+
+
+
+@impalpability   /im,pælpə'biliti/
+*  danh từ
+- tính khó sờ thấy
+- tính khó nhận thức được, tính khó cảm thấy
+
+
+
+
+
+@impalpable   /im'pælpəbl/
+*  tính từ
+- khó sờ thấy; rất nhỏ, rất mịn
+- khó nhận thức được, khó cảm thấy; rất tinh tế
+
+
+
+
+
+@impaludism   /im'pæljudizm/
+*  danh từ
+- (y học) bệnh sốt rét
+
+
+
+
+
+@imperativeness   /im'perətivnis/
+*  danh từ
+- tính chất cấp bách
+- tính chất sai khiến, tính chất mệnh lệnh
+
+
+
+
+
+@imperator   /,impə'rɑ:tɔ:/
+*  danh từ,  (sử học) La-mâ
+- Impêrato, thống soái
+- Hoàng đế
+
+
+
+
+
+@imperatorial   /im,perə'tɔ:riəl/
+*  tính từ,  (sử học) La-mâ
+- (thuộc) thống soái
+- (thuộc) Hoàng đế
+
+
+
+
+
+@inch-worm   /'intʃwə:m/
+*  danh từ
+- (động vật học) sâu đo
+
+
+
+
+
+@inchmeal   /'intʃmi:l/
+*  phó từ
+- (từ Mỹ,nghĩa Mỹ) lần lần, dần dần, từng bước một
+
+
+
+
+
+@inchoate   /'inkoueit/
+*  tính từ
+- vừa bắt đầu, còn phôi thai, chưa phát triển
+- lộn xộn, chưa sắp xếp
+
+
+
+
+
+@inciter   /in'saitə/
+*  phó từ
+- người khuyến khích
+- người kích động, người xúi giục
+
+
+
+
+
+@incitingly   /in'saitiɳli/
+*  phó từ
+- khuyến khích
+- kích động, xúi giục
+
+
+
+
+
+@incivility   /,insi'viliti/
+*  danh từ
+- thái độ bất lịch sự, thái độ khiếm nhâ, thái độ vô lễ
+- hành động bất lịch sự, cử chỉ khiếm nhã, cử chỉ vô lễ
+
+
+
+
+
+@incivism   /'insivizm/
+*  danh từ
+- sự thiếu ý thức công dân
+- (từ Mỹ,nghĩa Mỹ) sự thiếu tinh thần ái quốc
+
+
+
+
+
+@inclusiveness   /in'klu:sivnis/
+*  danh từ
+- tính chất bao gồm
+
+
+
+
+
+@incoagulability   /'inkou,ægjulə'biliti/
+*  danh từ
+- tính không đông được (máu)
+
+
+
+
+
+@incoagulable   /,inkou'ə:sibl/
+*  tính từ
+- không đông được (máu)
+
+
+
+
+
+@incoercible   /,inkou'ə:sibl/
+*  tính từ
+- không nén được (chất khí)
+
+
+
+
+
+@incog   /in'kɔg/
+*  tính từ,  phó từ & danh từ
+- (viết tắt) của incognito
+
+
+
+
+
+@incogitability   /in,kɔdʤitə'biliti/
+*  danh từ
+- tính không mường tượng được, tính không nhận thức được
+
+
+
+
+
+@incogitable   /in'kɔdʤitəbl/
+*  tính từ
+- không mường tượng được, không nhận thức được
+
+
+
+
+
+@incognita   /in'kɔgnitə/
+*  tính từ,  phó từ & danh từ
+- (như) incognito (dùng cho đàn bà)
+
+
+
+
+
+@itch-mite   /'itʃmait/
+*  danh từ
+- cái ghẻ
+
+
+
+
+
+@itchiness   /'itʃinis/
+*  danh từ
+- tình trạng ngứa ngáy; tính làm ngứa
+
+
+
+
+
+@itching   /'itʃiɳ/
+*  danh từ
+- (như) itch
+*  tính từ
+- (thuộc) sự ngứa; làm ngứa
+- (thuộc) sự muốn; rất muốn
+
+
+
+
+
+@itchy   /'itʃi/
+*  tính từ
+- ngứa; làm ngứa
+
+
+
+
+
+@ivy   /'aivi/
+*  danh từ
+- (thực vật học) dây thường xuân
+
+
+
+
+
+@ivy vine   /'aivi'vain/
+*  danh từ
+- (thực vật học) cây nho đà
+
+
+
+
+
+@izard   /'izəd/
+*  danh từ
+- (động vật học) dê hươu
+
+
+
+
+
+@izzard   /'izəd/
+*  danh từ
+- (từ cổ,nghĩa cổ) Z (chữ cái)
+
+
+
+
+
+@izzat   /'izət/
+*  danh từ (Ỡn)
+- danh dự, phẩm giá con người; uy tín cá nhân
+- sự tự trọng
+
+
+
+
+
+@j   /dzei/
+*  danh từ,  số nhiều Js,  J's, 
+- j
+- J pen ngòi bút rông
+
+
+
+
+
+@jaal-goat   /'dʤeiəl'gout/
+*  danh từ
+- (động vật học) dê rừng (ở Ai cập)
+
+
+
+
+
+@jab   /dʤæb/
+*  danh từ
+- nhát đâm mạnh, cái thọc mạnh
+- nhát đâm bất thình lình; cú đánh bất thình lình
+- (quân sự) trận đánh thọc sâu
+
+
+
+
+
+@jack light   /'dʤæklait/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) đuốc, đèn (để đi săn hay để câu đêm)
+
+
+
+
+
+@jack pudding   /'dʤæk'pudiɳ/
+*  danh từ
+- anh hề
+
+
+
+
+
+@jack rabbit   /'dʤæk'pudiɳ/
+*  danh từ
+- (động vật học) thỏ rừng tai to (ở Bắc Mỹ)
+
+
+
+
+
+@jack sprat   /'dʤæk'spræt/
+*  danh từ
+- người tầm thường, người nhỏ nhen
+
+
+
+
+
+@jack tar   /'dʤæk'tɑ:/
+*  danh từ
+- thuỷ thủ
+
+
+
+
+
+@jack-a-dandy   /,dʤækə'dændi/
+*  danh từ
+- anh chàng ăn diện, anh chàng diện đúng mốt; công tử bột
+
+
+
+
+
+@jack-horse   /'dʤækhɔ:s/
+*  danh từ
+- cái giá, bệ đỡ
+
+
+
+
+
+@jaded   /dʤeid/
+*  tính từ
+- mệt mỏi, mệt rã rời, kiệt sức; phải làm việc quá sức
+- chán ứ, chán ngấy
+=a jaded appetite+ ăn chán ứ không thấy ngon
+
+
+
+
+
+@jaeger   /'jeigə/
+*  danh từ
+- vải len jêgơ
+
+
+
+
+
+@jaggery   /'gʤægəri/
+*  danh từ
+- đường thốt nốt
+- đường thô
+
+
+
+
+
+@jaggy   /'dʤægi/
+*  tính từ
+- có mép lởm chởm (như răng cưa)
+
+
+
+
+
+@jaguar   /'ʤægjuə/
+*  danh từ
+- (động vật học) báo đốm Mỹ
+
+
+
+
+
+@jail   /dʤeil/
+*  danh từ & ngoại động từ
+- (như) goal
+
+
+
+
+
+@jansenism   /'dʤænsnizm/
+*  danh từ
+- giáo phái Gian-xen
+
+
+
+
+
+@jansenist   /'dʤænsnist/
+*  danh từ
+- người theo giáo phái Gian-xen
+
+
+
+
+
+@january   /'dʤænjuəri/
+*  danh từ
+- tháng giêng
+
+
+
+
+
+@jap   /dʤæp/
+*  tính từ & danh từ (thông tục) (như) Japanese
+
+
+
+
+
+@japan   /dʤə'pæn/
+*  danh từ
+- sơn mài Nhật; đồ sơn mài Nhật
+- đồ sứ Nhật
+- lụa Nhật
+*  ngoại động từ
+- sơn bằng sơn mài Nhật
+- sơn đen bóng (như sơn mài Nhật)
+
+
+
+
+
+@japanesque   /,dʤæpə'nesk/
+*  tính từ
+- theo kiểu Nhật
+
+
+
+
+
+@jape   /dʤeip/
+*  danh từ
+- (văn học) nói đùa; nói giễu
+
+
+
+
+
+@jaunty   /'dʤɔ:nti/
+*  tính từ
+- vui nhộn, vui vẻ; hoạt bát
+- thong dong
+- khoái chí; có vẻ tự mãn
+
+
+
+
+
+@javanese   /,dʤɑ:və'ni:z/
+*  tính từ
+- (thuộc) Gia-va
+*  danh từ
+- người Gia-va
+- tiếng Gia-va
+
+
+
+
+
+@javelin   /'dʤævlin/
+*  danh từ
+- (thể dục,thể thao) cái lao
+
+
+
+
+
+@jingoism   /'dʤiɳgouizm/
+*  danh từ
+- chủ nghĩa sô-vanh hiếu chiến
+
+
+
+
+
+@jingoistic   /,dʤiɳgou'istik/
+*  tính từ
+- sô-vanh hiếu chiến
+
+
+
+
+
+@jink   /dʤiɳk/
+*  danh từ
+- sự tránh, sự né tránh
+*  động từ
+- tránh, né tránh
+- (quân sự),  (từ lóng) lách lách để tránh đạn cao xạ (máy bay)
+
+
+
+
+
+@jinn   /dʤin/
+*  danh từ,  số nhiều của jinnee ((thường) dùng như số ít)
+
+
+
+
+
+@jinnee   /dʤi'ni:/
+*  danh từ,  số nhiều jinn
+- (thần thoại,thần học) thần
+
+
+
+
+
+@jobless   /'dʤɔblis/
+*  tính từ
+- không có việc làm; không có công ăn việc làm
+
+
+
+
+
+@jobmaster   /'dʤɔb,mɑ:stə/
+*  danh từ
+- người cho thuê ngựa; người cho thuê xe ngựa
+
+
+
+
+
+@jock   /dʤɔk/
+*  danh từ
+- (từ lóng) lính Ê-cốt
+- (thông tục) (như) jockey
+
+
+
+
+
+@kent   /ken/
+*  danh từ
+- phạm vi hiểu biết, tầm mắt
+=to be beyond (outside) one's ken+ vượt ra ngoài phạm vi hiểu biết
+=to be in one's ken+ trong phạm vi hiểu biết
+*  ngoại động từ kent (Ớ-cốt)
+- nhận ra, nhìn ra
+- biết
+
+
+
+
+
+@kentish   /'kentiʃ/
+*  tính từ
+- (thuộc) vùng Ken-tơ (Anh)
+!kentish fire
+- tràng vỗ tay hoan nghênh kéo dài
+- tiếng la ó phản đối; sự biểu tình phản đối
+
+
+
+
+
+@kentledge   /kentlidʤ/
+*  danh từ
+- (hàng hải) đồ dằn đặt thường xuyên (cho thuyền, tàu khỏi tròng trành)
+
+
+
+
+
+@kepi   /'kepi/
+*  danh từ
+- mũ kê-pi
+
+
+
+
+
+@la   /lɑ:/
+*  danh từ
+- nhạc La
+
+
+
+
+
+@la-breaker   /'lɔ:,breikə/
+*  danh từ
+- kẻ phạm pháp
+
+
+
+
+
+@la-di-da   /'la:di:dɑ:/
+*  danh từ
+- người màu mè, người kiểu cách
+
+
+
+
+
+@labourer   /'leibərə/
+*  danh từ
+- người lao động chân tay, lao công
+
+
+
+
+
+@labouring   /'leibəriɳ/
+*  tính từ
+- cần lao, lao động
+=the labouring people+ nhân dân lao động
+=labouring man+ người lao động, công nhân
+- cực nhọc
+
+
+
+
+
+@laceration   /,læsə'reiʃn/
+*  danh từ
+- sự xé rách
+- (y học) vết rách
+
+
+
+
+
+@laches   /'lætʃiz/
+*  danh từ
+- (pháp lý) sự sao lãng, sự biếng trễ
+
+
+
+
+
+@lachrymal   /'lækriməl/
+*  tính từ
+- (thuộc) nước mắt
+=lachrymal duct+ ống nước mắt
+=lachrymal gland+ tuyến nước mắt
+
+
+
+
+
+@lachrymator   /'lækrimeitə/
+*  danh từ
+- (hoá học) chất làm chảy nước mắt, hơi làm chảy nước mắt
+
+
+
+
+
+@lackland   /'læklənd/
+*  tính từ
+- không có ruộng đất
+*  danh từ
+- người không có ruộng đất
+
+
+
+
+
+@lactase   /'læki/
+*  danh từ
+- (sinh vật học) lactaza
+
+
+
+
+
+@lactasion   /læk'teiʃn/
+*  danh từ
+- sự sinh sữa, sự chảy sữa
+- sự cho b
+
+
+
+
+
+@lactasional   /læk'teiʃənl/
+*  tính từ
+- (thuộc) sự sinh sữa, (thuộc) sự chảy sữa
+- (thuộc) sự cho b
+
+
+
+
+
+@lacteal   /'læktiəl/
+*  tính từ
+- (thuộc) sữa; như sữa
+- (giải phẫu) dẫn dịch dưỡng (ống)
+
+
+
+
+
+@lacteous   /'læktiəl/
+*  tính từ
+- (thuộc) sữa; như sữa
+
+
+
+
+
+@leather-back   /'leðəbæk/
+*  danh từ
+- (động vật học) rùa luýt
+
+
+
+
+
+@leather-cloth   /'leðəklɔθ/
+*  danh từ
+- vải da
+
+
+
+
+
+@leather-head   /'leðəhed/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thằng ngốc
+
+
+
+
+
+@leather-neck   /'leðənek/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lính thuỷ đánh b
+
+
+
+
+
+@leatherette   /'leðə'ret/
+*  danh từ
+- da giả
+
+
+
+
+
+@leathern   /'leðə:n/
+*  tính từ
+- bằng da
+
+
+
+
+
+@leatheroid   /'leðərɔid/
+*  danh từ
+- da hoá học (làm bằng giấy)
+
+
+
+
+
+@leathery   /'leðəri/
+*  tính từ
+- như da; dai như da (thịt...)
+=leathery beef+ thịt bò dai như da
+
+
+
+
+
+@lineal   /'liniəl/
+*  tính từ
+- (thuộc) trực hệ (như cha với con)
+
+
+
+
+
+@lineament   /'liniəmənt/
+*  danh từ,  (thường) số nhiều
+- nét; nét mặt
+
+
+
+
+
+@lineation   /,lini'eiʃn/
+*  danh từ
+- sự kẻ
+
+
+
+
+
+@lineman   /'lainmən/
+*  danh từ
+- người gác đường (xe lửa)
+- người đặt đường dây (điện báo, điện thoại);
+
+
+
+
+
+@lingerer   /'liɳgərə/
+*  danh từ
+- người đi sau, người đi chậm, người hay la cà
+
+
+
+
+
+@lingerie   /'le:nʤəri:/
+*  danh từ
+- đồ vải
+- quần áo lót đàn bà
+
+
+
+
+
+@lipoma   /li'poumə/
+*  danh từ
+- (y học) u m
+
+
+
+
+
+@lipped   /lipt/
+*  tính từ
+- có vòi (ấm)
+- (như) labiate
+
+
+
+
+
+@lipsalve   /'lipsɑ:v/
+*  danh từ
+- sáp môi
+- (nghĩa bóng) lời tán tụng, lời nịnh hót
+
+
+
+
+
+@lipstick   /'lipstik/
+*  danh từ
+- son bôi môi
+
+
+
+
+
+@liquate   /'likweit/
+*  ngoại động từ
+- tách lỏng, tách lệch (kim loại)
+
+
+
+
+
+@malachite   /'mæləkait/
+*  danh từ
+- (khoáng chất) Malachit
+
+
+
+
+
+@malacological   /,mæləkə'lɔdʤikəl/
+*  tính từ
+- (thuộc) khoa nghiên cứu động vật thân mềm
+
+
+
+
+
+@malacologist   /,mæləkə'lɔdʤist/
+*  danh từ
+- nhà nghiên cứu động vật thân mềm
+
+
+
+
+
+@malacology   /,mælə'kɔlədʤi/
+*  danh từ
+- khoa nghiên cứu động vật thân mềm
+
+
+
+
+
+@maladjustment   /'mælə'dʤʌstmənt/
+*  danh từ
+- sự lắp sai; sự thích nghi sai
+
+
+
+
+
+@maladminister   /'mæləd'ministə/
+*  ngoại động từ
+- cai trị xấu, quản lý tồi
+
+
+
+
+
+@maladministration   /'mæləd,minis'treiʃn/
+*  danh từ
+- sự cai trị xấu, sự quản lý tồi
+
+
+
+
+
+@maladroit   /'mælə'drɔit/
+*  tính từ
+- vụng về, không khôn khéo
+
+
+
+
+
+@maleficence   /mə'lefisns/
+*  danh từ
+- tính ác, tính hiểm ác; ác tâm, ác ý
+
+
+
+
+
+@maleficent   /mə'lefisnt/
+*  tính từ
+- hay làm hại; ác, hiểm ác
+
+
+
+
+
+@maleness   /'meilnis/
+*  danh từ
+- tính chất con trai, tính chất đàn ông; tính chất đực
+
+
+
+
+
+@malevolence   /mə'levələns/
+*  danh từ
+- ác tâm, ác ý
+
+
+
+
+
+@malevolent   /mə'levələnt/
+*  tính từ
+- xấu bụng, ác, hiểm ác
+
+
+
+
+
+@malfeasance   /mæl'fi:zəns/
+*  danh từ
+- (pháp lý) hành động phi pháp, hành động bất lương
+
+
+
+
+
+@malfeasant   /mæl'fi:zənt/
+*  tính từ
+- (pháp lý) phi pháp, bất lương, phạm tội ác
+*  danh từ
+- (pháp lý) kẻ phi pháp, kẻ bất lương, kẻ phạm tội ác
+
+
+
+
+
+@malformation   /'mælfɔ:'meiʃn/
+*  danh từ
+- tật
+
+
+
+
+
+@malic   /'mælik/
+*  tính từ
+- (hoá học) Malic
+=malic acid+ axit Malic
+
+
+
+
+
+@malice   /'mælis/
+*  danh từ
+- tính hiểm độc, ác tâm
+
+
+
+
+
+@malicious   /mə'liʃəs/
+*  tính từ
+- hiểm độc, có ác tâm
+- có hiềm thù
+
+
+
+
+
+@maliciousness   /mə'liʃəsnis/
+*  danh từ
+- tính hiểm độc, ác tâm
+
+
+
+
+
+@malign   /mə'lain/
+*  tính từ
+- độc ác, thâm hiểm
+- (y học) ác tính
+*  ngoại động từ
+- nói xấu, phỉ báng, vu khống
+
+
+
+
+
+@malignity   /mə'ligniti/
+*  danh từ
+- tính ác, tính thâm hiểm; lòng hiểm độc, ác tâm
+- điều ác, điều độc ác
+- (y học) ác tính
+
+
+
+
+
+@malinger   /mə'liɳgə/
+*  nội động từ
+- giả ốm để trốn việc
+
+
+
+
+
+@malingerer   /mə'liɳgərə/
+*  danh từ
+- người giả ốm để trốn việc
+
+
+
+
+
+@malkin   /'mɔ:kin/
+*  danh từ
+- người đàn bà nhếch nhác
+- bù nhìn (để đuổi chim)
+- gậy quấn giẻ (để chùi lò bánh)
+- con mèo; con thỏ rừng
+
+
+
+
+
+@me   /mi:/
+*  đại từ
+- tôi, tao, tớ
+
+
+
+
+
+@mead   /mi:d/
+*  danh từ
+- rượu mật ong
+- (thơ ca),  (như) meadow
+
+
+
+
+
+@meadow   /'medou/
+*  danh từ
+- đồng cỏ, bãi cỏ
+
+
+
+
+
+@meadowy   /'medoui/
+*  tính từ
+- (thuộc) đồng cỏ
+- có nhiều cỏ
+
+
+
+
+
+@mealie   /'mi:li/
+*  danh từ,  (thường) số nhiều
+- (Nam phi) ngô
+
+
+
+
+
+@mealiness   /'mi:linis/
+*  danh từ
+- tính chất giống bột; tính chất có bột, tính chất nhiều bột, tình trạng phủ đầy bột
+
+
+
+
+
+@mealtime   /'mi:ltaim/
+*  danh từ
+- giờ ăn
+
+
+
+
+
+@meaning   /'mi:niɳ/
+*  danh từ
+- nghĩa, ý nghĩa
+=what is the meaning of this word?+ từ này nghĩa là gì?
+=with meaning+ có ý nghĩa, đầy ý nghĩa
+*  tính từ
+- có ý nghĩa, đầy ý nghĩa
+=a meaning look+ một cái nhìn đầy ý nghĩa
+
+
+
+
+
+@meaningful   /'mi:niɳful/
+*  tính từ
+- đầy ý nghĩa, có ý nghĩa
+
+
+
+
+
+@meaningfulness   /'mi:niɳfulnis/
+*  danh từ
+- sự có ý nghĩa
+
+
+
+
+
+@meaningless   /'mi:niɳfulnis/
+*  tính từ
+- vô nghĩa
+
+
+
+
+
+@misbehave   /'misbi'heiv/
+*  ngoại động từ,  (thường) động từ phân thân
+- cư xử không đứng đắn; ăn ở bậy bạ
+
+
+
+
+
+@misbehaviour   /'misbi'heivjə/
+*  danh từ
+- hạnh kiểm xấu; cách cư xử xấu; cách ăn ở bậy bạ
+
+
+
+
+
+@misbelief   /'misbi'li:f/
+*  danh từ
+- sự tin tưởng sai
+- tín ngưỡng sai lầm
+
+
+
+
+
+@miscasting   /mis'kɑ:stiɳ/
+*  danh từ
+- sự chọn các vai không thích hợp
+- sự cộng sai (các khoản chi thu)
+
+
+
+
+
+@miscegenation   /,misidʤi'neiʃn/
+*  danh từ
+- hôn nhân khác chủng tộc (như da đen với da trắng...)
+- sự lai căng
+
+
+
+
+
+@miscegenetic   /,misidʤi'netik/
+*  tính từ
+- (thuộc) hôn nhân khác chủng tộc (như da đen với da trắng...)
+- lai giống
+
+
+
+
+
+@mischief-maker   /'mistʃif,meikə/
+*  danh từ
+- người gây mối bất hoà
+
+
+
+
+
+@mischief-making   /'mistʃif,meikiɳ/
+*  danh từ
+- sự gây bất hoà
+
+
+
+
+
+@mischievous   /'mistʃivəs/
+*  tính từ
+- hay làm hại
+- tác hại, có hại
+- tinh nghịch, tinh quái, ranh mãnh, láu lỉnh
+=a mischievous child+ một đứa trẻ tinh quái
+
+
+
+
+
+@mischievousness   /'mistʃivəsnis/
+*  danh từ
+- tính ác, tính hiểm độc
+- tính có hại
+- tính tinh nghịch, tính tinh quái
+
+
+
+
+
+@misconstruction   /'miskəns'trʌkʃn/
+*  danh từ
+- sự hiểu sai, sự giải thích sai
+
+
+
+
+
+@misconstrue   /'miskən'stru:/
+*  ngoại động từ
+- hiểu sai, giải thích sai (ý, lời...)
+=to misconstrue someopne's opinion+ hiểu sai ý kiến của ai
+
+
+
+
+
+@miscopy   /'mis'kɔpi/
+*  ngoại động từ
+- chép sai
+
+
+
+
+
+@miscreated   /'miskri:'eitid/
+*  tính từ
+- méo mó, kỳ quái, gớm ghiếc (hình dáng)
+
+
+
+
+
+@miscreation   /'miskri:'eiʃn/
+*  danh từ
+- sự tạo ra méo mó, sự tạo ra kỳ quái
+- người kỳ quái; vật kỳ quái
+
+
+
+
+
+@muffetee   /,mʌfi'ti:/
+*  danh từ
+- (y học) băng cổ tay
+
+
+
+
+
+@muffin   /'mʌfin/
+*  danh từ
+- bánh nướng xốp (ăn với bơ khi uống trà)
+
+
+
+
+
+@mugger   /'mʌgə/
+*  danh từ
+- (động vật học) cá sấu Ân-ddộ
+
+
+
+
+
+@mugginess   /'mʌginis/
+*  danh từ
+- tình trạng nồm ấm (tiết trời)
+
+
+
+
+
+@muggins   /'mʌginz/
+*  danh từ
+- thàng ngốc
+- lối đánh bài mơghin (của trẻ con)
+- Đôminô
+
+
+
+
+
+@muggy   /'mʌgi/
+*  tính từ
+- nồm ấm, oi bức
+
+
+
+
+
+@muller   /'mʌlə/
+*  danh từ
+- cái nghiền (bột...)
+
+
+
+
+
+@mullet   /'mʌlit/
+*  danh từ
+- grey mullet cá đối
+- red mullet cá phèn
+
+
+
+
+
+@mulligatawny   /mʌligə'tɔ:ni/
+*  danh từ
+- xúp cay ((cũng) mulligatawny soup)
+!mulligatawny paste
+- bột ca ri cay
+
+
+
+
+
+@mulligrubs   /'mʌligrʌbz/
+*  danh từ
+- (thông tục) trạng thái buồn bực rầu rĩ
+- bệnh đau bụng
+
+
+
+
+
+@mullion   /'mʌliən/
+*  danh từ
+- thanh song (ở cửa sổ)
+
+
+
+
+
+@mullioned   /'mʌliənd/
+*  tính từ
+- có song (cửa sổ)
+
+
+
+
+
+@multicoloured   /'mʌlti'kʌləd/
+*  tính từ
+- nhiều màu; sặc sỡ
+
+
+
+
+
+@multifarious   /,mʌlti'feəriəs/
+*  tính từ
+- nhiều, khác nhau, phong phú
+
+
+
+
+
+@multiflorous   /'mʌlti'flɔ:rəs/
+*  tính từ
+- (thực vật học) nhiều hoa
+
+
+
+
+
+@multifold   /'mʌltifɔ:rəs/
+*  tính từ
+- muôn màu muôn vẻ
+- nhiều lần
+
+
+
+
+
+@multiform   /'mʌltifɔ:m/
+*  tính từ
+- nhiều dạng, phong phú về hình thức
+
+
+
+
+
+@multilateral   /'mʌlti'lætərəl/
+*  tính từ
+- nhiều phía
+
+
+
+
+
+@mussel   /'mʌsl/
+*  danh từ
+- (động vật học) con trai
+
+
+
+
+
+@mussiness   /'mʌsinis/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) sự lộn xộn, sự hỗn độn, sự rối loạn
+- sự bẩn thỉu, sự dơ dáy
+
+
+
+
+
+@mussitation   /,mʌsi'teiʃn/
+*  danh từ
+- sự mấp máy môi (nói nhưng không ra tiếng)
+- sự nói lẩm bẩm
+
+
+
+
+
+@nidification   /,nidifi'keiʃn/
+*  danh từ
+- sự làm tổ
+
+
+
+
+
+@nidus   /'naidəs/
+*  danh từ,  số nhiều nidi,  niduses
+- ổ trứng (sâu bọ...)
+- ổ bệnh
+- nguồn gốc, nơi phát sinh
+
+
+
+
+
+@niece   /ni:s/
+*  danh từ
+- cháu gái (con của anh, chị, em)
+
+
+
+
+
+@nielloed   /ni'eloud/
+*  tính từ
+- khảm men huyền (vào đồ vàng bạc)
+
+
+
+
+
+@nifty   /'nifti/
+*  tính từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đúng mốt; diện sộp
+
+
+
+
+
+@niggard   /'nigəd/
+*  danh từ
+- người hà tiện, người keo kiệt
+*  tính từ
+- (văn học); (thơ ca) hà tiện, keo kiệt
+
+
+
+
+
+@niggardly   /'nigədli/
+*  tính từ & phó từ
+- hà tiện, keo kiệt
+
+
+
+
+
+@noser   /'nouzə/
+*  danh từ
+- gió ngược thổi mạnh
+
+
+
+
+
+@noserag   /'nouzræg/
+*  danh từ
+- (từ lóng) khăn xỉ mũi
+
+
+
+
+
+@nosering   /'nouzriɳ/
+*  danh từ
+- vòng đeo ở mũi (bò...)
+
+
+
+
+
+@nosewarmer   /'nouz,wɔ:mə/
+*  danh từ
+- (từ lóng) tẩu thuốc lá, ống điếu ngắn
+
+
+
+
+
+@notional   /'nouʃənl/
+*  tính từ
+- (thuộc) ý niệm, (thuộc) khái niệm; tư biện
+- tưởng tượng (vật)
+- hay mơ tưởng hão, ảo tưởng (người)
+- (ngôn ngữ học) chỉ khái niệm
+=notional words+ từ chỉ khái niệm, thực t
+
+
+
+
+
+@notionalist   /'nouʃənlist/
+*  danh từ
+- nhà tư tưởng
+- nhà lý luận
+
+
+
+
+
+@notoriety   /,noutə'raiəti/
+*  danh từ
+- trạng thái rõ ràng, trạng thái hiển nhiên, trạng thái ai cũng biết
+- (thường),  (nghĩa xấu) người nổi danh, người ai cũng biết
+
+
+
+
+
+@noun   /naun/
+*  danh từ
+- (ngôn ngữ học) danh t
+
+
+
+
+
+@nourish   /'nʌriʃ/
+*  ngoại động từ
+- nuôi, nuôi nấng, nuôi dưỡng
+- nuôi, ôm, ấp ủ (hoài bão, hy vọng, tình cảm)
+
+
+
+
+
+@nourishing   /'nʌriʃiɳ/
+*  tính từ
+- b
+
+
+
+
+
+@nourishment   /'nʌriʃmənt/
+*  danh từ
+- sự nuôi, sự nuôi dưỡng
+- đồ ăn, thực phẩm
+
+
+
+
+
+@novelese   /,nɔlə'li:z/
+*  danh từ
+- văn phong (của) tiểu thuyết rẻ tiền
+
+
+
+
+
+@novelette   /,nɔvə'let/
+*  danh từ
+- (thường), vuồm truyện ngắn
+- (âm nhạc) tiểu phẩm
+
+
+
+
+
+@ointment   /'ɔintmənt/
+*  danh từ
+- thuốc mỡ
+
+
+
+
+
+@okapi   /'ou'kɑ:pi/
+*  danh từ
+- (động vật học) hươu đùi vằn
+
+
+
+
+
+@okra   /'ɔkrə/
+*  danh từ
+- (thực vật học) cây mướp tây
+
+
+
+
+
+@old   /ould/
+*  tính từ
+- già
+=an old man+ một ông già
+=my old man+ (thông tục) bà nhà tôi
+
+
+
+
+
+@old glory   /'ould'glɔ:ri/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) quốc kỳ Mỹ
+
+
+
+
+
+@old gold   /'ould'gould/
+*  danh từ
+- màu vàng úa
+
+
+
+
+
+@old moon   /'ould'mu:n/
+*  danh từ
+- trăng hạ tuần
+
+
+
+
+
+@oleaginous   /,ouli'ædʤinəs/
+*  tính từ
+- nhờn
+- có dầu, cho dầu
+
+
+
+
+
+@oleander   /,ouli'ændə/
+*  danh từ
+- (thực vật học) cây trúc đào
+
+
+
+
+
+@oleaster   /,ouli'æstə/
+*  danh từ
+- (thực vật học) cây nhót đắng
+
+
+
+
+
+@oleic   /ou'li:ik/
+*  tính từ
+- (hoá học) oleic acid axit oleicz
+
+
+
+
+
+@olein   /'ouliin/
+*  danh từ
+- (hoá học) Olein
+
+
+
+
+
+@outsang   /aut'siɳ/
+*  ngoại động từ outsang,  outsung
+- hát hay hơn
+- hát to hơn
+*  nội động từ
+- cất tiếng hát; lên tiếng hót
+
+
+
+
+
+@outsat   /aut'sit/
+*  ngoại động từ outsat
+- ngồi lâu hơn (ai); ngồi quá thời hạn của (cái gì)
+
+
+
+
+
+@outscold   /aut'skould/
+*  ngoại động từ
+- mắng nhiếc nhiều hơn
+
+
+
+
+
+@outsell   /aut'sel/
+*  ngoại động từ outsold
+- bán được nhiều hơn; bán chạy hơn
+- được giá hơn
+
+
+
+
+
+@outset   /'autset/
+*  danh từ
+- sự bắt đầu
+
+
+
+
+
+@outsettlement   /'aut'setlmənt/
+*  danh từ
+- nơi định cư xa xôi
+
+
+
+
+
+@outsettler   /'aut'setlə/
+*  danh từ
+- người định cư nơi xa xôi
+
+
+
+
+
+@outshine   /aut'ʃain/
+*  nội động từ outshone
+- sáng, chiếu sáng
+*  ngoại động từ
+- sáng hơn, rạng rỡ hơn, lộng lẫy hơn
+
+
+
+
+
+@outshone   /aut'ʃain/
+*  nội động từ outshone
+- sáng, chiếu sáng
+*  ngoại động từ
+- sáng hơn, rạng rỡ hơn, lộng lẫy hơn
+
+
+
+
+
+@outshoot   /aut'ʃut/
+*  ngoại động từ outshot
+- bắn giỏi hơn
+- bắn vượt qua
+- bắn ra; nảy (mầm...), mọc (rễ...)
+
+
+
+
+
+@outshot   /aut'ʃut/
+*  ngoại động từ outshot
+- bắn giỏi hơn
+- bắn vượt qua
+- bắn ra; nảy (mầm...), mọc (rễ...)
+
+
+
+
+
+@outshout   /aut'ʃu:t/
+*  ngoại động từ
+- hét to hơn, hét át
+- (từ Mỹ,nghĩa Mỹ) át (ai) bằng lý lẽ vững hơn
+
+
+
+
+
+@outside   /'aut'said/
+*  danh từ
+- bề ngoài, bên ngoài
+=to open the door from the outside+ mở cửa từ bên ngoài
+- thế giới bên ngoài
+
+
+
+
+
+@outsider   /'aut'saidə/
+*  danh từ
+- người ngoài cuộc; người không thể cho nhập bọn
+- người không cùng nghề; người không chuyên môn
+- đấu thủ ít có khả năng thắng; ngựa đua ít có khả năng thắng
+
+
+
+
+
+@outsight   /'autsait/
+*  danh từ
+- khả năng nhận thức thế giới bên ngoài
+
+
+
+
+
+@outsing   /aut'siɳ/
+*  ngoại động từ outsang,  outsung
+- hát hay hơn
+- hát to hơn
+*  nội động từ
+- cất tiếng hát; lên tiếng hót
+
+
+
+
+
+@outsit   /aut'sit/
+*  ngoại động từ outsat
+- ngồi lâu hơn (ai); ngồi quá thời hạn của (cái gì)
+
+
+
+
+
+@outsized   /'autsaizd/
+*  tính từ
+- quá khổ, ngoại cỡ (quần áo)
+
+
+
+
+
+@outvie   /aut'vai/
+*  ngoại động từ
+- thắng (trong cuộc đua)
+- nói to hơn; nói với tác dụng lớn hơn, nói với sức thuyết phục lớn hơn
+
+
+
+
+
+@outvoice   /aut'vɔis/
+*  ngoại động từ
+- nói to hơn; nói với tác dụng lớn hơn, nói với sức thuyết phục lớn hơn
+
+
+
+
+
+@outvote   /aut'vout/
+*  ngoại động từ
+- thắng phiếu (trong cuộc bầu phiếu, trong sự biểu quyết)
+
+
+
+
+
+@outvoter   /'aut,voutə/
+*  danh từ
+- cử tri không phải người địa phương, cử tri tạm trú
+
+
+
+
+
+@outwalk   /aut'wɔ:k/
+*  ngoại động từ
+- đi xa hơn, đi nhanh hơn (ai)
+
+
+
+
+
+@pacificator   /pə'sifikeitə/
+*  danh từ
+- người bình định; người dẹp yên
+- (từ Mỹ,nghĩa Mỹ) người hoà giải
+
+
+
+
+
+@pacificatory   /pə'sifikətəri/
+*  tính từ
+- bình định
+- làm yên, làm nguôi
+- hoà giải, đem lại hoà bình
+
+
+
+
+
+@pack-drill   /'pækdril/
+*  danh từ
+- (quân sự) sự phạt đi bộ vũ trang mang nặng
+
+
+
+
+
+@pack-horse   /'pækhɔ:s/
+*  danh từ
+- ngựa thồ
+
+
+
+
+
+@pack-ice   /'pækais/
+*  danh từ
+- đám băng nổi
+
+
+
+
+
+@pack-saddle   /'pæk,sædl/
+*  danh từ
+- yên thồ
+
+
+
+
+
+@packing-case   /'pækiɳkeis/
+*  danh từ
+- hòm (để) đóng hàng
+
+
+
+
+
+@packing-needle   /'pækiɳ,ni:dl/
+*  danh từ
+- kim khâu kiện hàng
+
+
+
+
+
+@packing-paper   /'pækiɳ,peipə/
+*  danh từ
+- giấy gói hàng
+
+
+
+
+
+@packing-sheet   /'pækiɳʃi:t/
+*  danh từ
+- vải gói hàng
+- (y học) vải ướt (để) làm khăn đắp, vải ướt (để) làm mền cuốn
+
+
+
+
+
+@packman   /'pækmən/
+*  danh từ
+- người bán hàng rong
+
+
+
+
+
+@packpaper   /'pæk,peipə/
+*  danh từ
+- giấy (để) bọc, giấy (để) gói
+
+
+
+
+
+@packthread   /'pækθred/
+*  danh từ
+- chỉ khâu bao bì
+- dây gói hàng
+
+
+
+
+
+@pact   /pækt/
+*  danh từ
+- hiệp ước, công ước
+!Pact of Peace
+- hiệp ước hoà bình
+
+
+
+
+
+@paddle board   /'pædlbɔ:d/
+*  danh từ
+- ván (để) cưỡi sóng
+
+
+
+
+
+@paddle-box   /'pædlbɔks/
+*  danh từ
+- bao guồng (tàu thuỷ)
+
+
+
+
+
+@paddle-wheel   /'pædlwi:l/
+*  danh từ
+- guồng (tàu thuỷ)
+
+
+
+
+
+@periostitis   /,periɔs'taitis/
+*  danh từ
+- (y học) viêm màng xương
+
+
+
+
+
+@peripheral   /pə'rifərəl/
+*  tính từ
+- (thuộc) chu vi
+- (thuộc) ngoại vi, (thuộc) ngoại biên
+
+
+
+
+
+@periphery   /pə'rifəri/
+*  danh từ
+- chu vi
+- ngoại vi, ngoại biên
+
+
+
+
+
+@periphrastic   /,peri'fræstik/
+*  tính từ
+- dùng lối nói quanh, dùng lối nói vòng
+
+
+
+
+
+@peripteral   /pə'riptərəl/
+*  tính từ
+- (kiến trúc) có hàng cột bao quanh
+
+
+
+
+
+@perique   /pi'ri:k/
+*  danh từ
+- thuốc lá pêric
+
+
+
+
+
+@periscope   /'periskoup/
+*  danh từ
+- kính tiềm vọng
+=binocular periscope+ kính tiềm vọng hai mắt
+- kính ngắm (máy ảnh)
+
+
+
+
+
+@periscopic   /,peris'kɔpik/
+*  tính từ
+- (thuộc) kính tiềm vọng
+- làm cho nhìn thấy rõ qua kính tiềm vọng
+- (thuộc) kính ngắm (máy ảnh)
+
+
+
+
+
+@perishable   /'periʃəbl/
+*  tính từ
+- có thể bị diệt vong; có thể chết
+- có thể bị tàn lụi, có thể bị héo rụi
+- dễ thối, dễ hỏng (rau, hoa quả...)
+
+
+
+
+
+@perishables   /'periʃəblz/
+*  danh từ số nhiều
+- hàng dễ thối, hàng dễ hỏng (chủ yếu thực phẩm chuyên chở đi)
+
+
+
+
+
+@perisher   /'periʃə/
+*  danh từ
+- (từ lóng) người khó chịu, người quấy rầy
+
+
+
+
+
+@perishing   /'periʃiɳ/
+*  tính từ
+- (từ lóng) hết sức khó chịu, chết đi được
+=in perishing cold+ rét chết đi được
+
+
+
+
+
+@perisperm   /'perispə:m/
+*  danh từ
+- (thực vật học) ngoại nhũ
+
+
+
+
+
+@perissodactylate   /pə,risou'dæktilit/
+*  tính từ
+- (động vật học) có guốc lẻ
+
+
+
+
+
+@peristalith   /pə'ristəliθ/
+*  danh từ
+- (khảo cổ học) đá quanh mộ
+
+
+
+
+
+@peristalsis   /,peri'stælsis/
+*  danh từ
+- (sinh vật học) sự nhu động
+
+
+
+
+
+@peristaltic   /,peri'stæltik/
+*  tính từ
+- (sinh vật học) nhu động
+
+
+
+
+
+@perky   /'pə:ki/
+*  tính từ
+- tự đắc, vênh váo; xấc xược, ngạo mạn
+
+
+
+
+
+@perlite   /'pə:plait/
+*  danh từ
+- Peclit, đá trân châu
+
+
+
+
+
+@perm   /pə:m/
+*  danh từ
+- (thực vật học) (viết tắt) của permanentwave
+- tóc làn sóng giữ lâu không mất quăn
+- (viết tắt) của permutation
+
+
+
+
+
+@permalloy   /'pə:məlɔi/
+*  danh từ
+- hợp kim pecmalci
+
+
+
+
+
+@permeation   /,pə:mi'eiʃn/
+*  danh từ
+- sự thấm, sự thấm vào, sự thấm qua
+
+
+
+
+
+@permian   /'pə:miən/
+*  tính từ
+-(đùa cợt) (thuộc) hệ pecmi
+
+
+
+
+
+@permissibility   /pə,misi'biliti/
+*  danh từ
+- tính cho phép được; tính chấp nhận được, tính dung được
+
+
+
+
+
+@permissible   /pə'misəbl/
+*  tính từ
+- cho phép được, chấp nhận được, dung được
+
+
+
+
+
+@permission   /pə'miʃn/
+*  danh từ
+- sự cho phép, sự chấp nhận
+=with your kind permission+ nếu ông vui lòng cho phép
+- phép; giấy phép
+
+
+
+
+
+@pernoctation   /,pə:nɔk'teiʃn/
+*  danh từ
+- sự thức suốt đêm
+
+
+
+
+
+@pernorate   /'perəreit/
+*  nội động từ
+- kết luận bài diễn văn
+- nói dài dòng văn tự
+
+
+
+
+
+@pernoration   /,perə'reiʃn/
+*  danh từ
+- đoạn kết của bài diễn văn
+
+
+
+
+
+@polyphase   /'pɔlifeiz/
+*  tính từ
+- (điện học) nhiều pha
+
+
+
+
+
+@polyphone   /'pɔlifoun/
+*  danh từ
+- từ nhiều âm
+
+
+
+
+
+@push-pin   /'puʃpin/
+*  danh từ
+- trò chơi ghim (của trẻ con)
+- (từ Mỹ,nghĩa Mỹ) đinh rệp
+- (từ Mỹ,nghĩa Mỹ) điều tầm thường, điều nhỏ mọn
+
+
+
+
+
+@push-pull   /'puʃpul/
+*  tính từ
+- (rađiô) đẩy kéo
+=push-pull circuit+ mạch đẩy kéo
+
+
+
+
+
+@push-up   /'puʃʌp/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) sự nạp đạn
+- (thể dục,thể thao) động tác nằm sấp chống tay (lên xuống)
+
+
+
+
+
+@pusher   /'puʃə/
+*  danh từ
+- người đẩy, vật đẩy
+
+
+
+
+
+@put-off   /'putɔ:f/
+*  danh từ
+- sự hoân lại, sự để chậm lại
+- sự lảng tránh
+
+
+
+
+
+@put-out   /'putaut/
+*  danh từ
+- (thể dục,thể thao) sự đuổi ra ngoài (vì chơi trái phép...)
+
+
+
+
+
+@put-up   /'put'ʌp/
+*  tính từ
+- (thực vật học) gian dối sắp đặt trước, bày mưu tính kế trước
+=a put-up affair (job)+ việc đã được gian dối sắp đặt trước
+
+
+
+
+
+@putamen   /pju:'tətiv/
+*  danh từ,  số nhiều putamina
+- (thực vật học) hạch (của quả hạch)
+
+
+
+
+
+@radome   /'reidoum/
+*  danh từ
+- mái che máy rađa (trên máy bay)
+
+
+
+
+
+@radon   /reidɔn/
+*  danh từ
+- (hoá học) Rađơn
+
+
+
+
+
+@rain-cloud   /'reinklaud/
+*  danh từ
+- mây mưa
+
+
+
+
+
+@rain-gauge   /'reingeidʤ/
+*  danh từ
+- máy đo mưa, thước đo mưa
+
+
+
+
+
+@rain-glass   /'reinglɑ:s/
+*  danh từ
+- phong vũ biểu
+
+
+
+
+
+@rain-storm   /'reinstɔ:m/
+*  danh từ
+- mưa dông
+
+
+
+
+
+@rain-water   /'rein,wɔ:tə/
+*  danh từ
+- nước mưa
+
+
+
+
+
+@rain-worm   /'reinwə:m/
+*  danh từ
+- (động vật học) con giun đất
+
+
+
+
+
+@rainbow   /'reinbou/
+*  danh từ
+- cầu vồng
+
+
+
+
+
+@raincoat   /'reinkout/
+*  danh từ
+- áo mưa
+
+
+
+
+
+@raindrop   /'reindrɔp/
+*  danh từ
+- giọt mưa
+
+
+
+
+
+@rainfall   /'reinfɔ:l/
+*  danh từ
+- trận mưa rào
+- lượng mưa
+
+
+
+
+
+@raised   /reizd/
+*  tính từ
+- nổi, đắp nổi
+- nở bằng men (bột...)
+
+
+
+
+
+@raiser   /'reizə/
+*  danh từ
+- người chăn nuôi, người trồng trọt
+=a raiser of cattle+ một người nuôi súc vật
+
+
+
+
+
+@raisin   /'reizn/
+*  danh từ
+- nho khô
+- màu nho khô
+
+
+
+
+
+@raison d'être   /'reizʤ:n'deitr/
+*  danh từ
+- lý do tồn tại
+
+
+
+
+
+@reposeful   /ri'pouzful/
+*  tính từ
+- yên tĩnh
+- đem lại sự nghỉ ngơi
+
+
+
+
+
+@repository   /ri'pɔzitəri/
+*  danh từ
+- kho, chỗ chứa ((nghĩa đen) & (nghĩa bóng))
+=a repository of goods+ kho hàng
+- nơi chôn cất
+- người được ký thác tâm sự; người được ký thác điều bí mật
+
+
+
+
+
+@repossess   /'ri:pə'zes/
+*  ngoại động từ
+- chiếm hữu lại
+- cho chiếm hữu lại
+
+
+
+
+
+@reprehend   /,repri'hend/
+*  ngoại động từ
+- quở trách, khiển trách, mắng
+
+
+
+
+
+@reprehensibility   /'repri,hensi'biliti/
+*  danh từ
+- tính đáng quở trách, tính đáng khiển trách, tính đáng mắng
+
+
+
+
+
+@reprehensible   /,repri'hensəbl/
+*  tính từ
+- đáng quở trách, đáng khiển trách, đáng mắng
+=reprehensible mistakes+ những sai lầm đáng quở trách
+
+
+
+
+
+@reprehension   /,repri'henʃn/
+*  danh từ
+- sự quở trách, sự khiển trách, sự mắng mỏ
+
+
+
+
+
+@reprint   /'ri:'print/
+*  danh từ
+- sự in lại, sự tái bản
+- sách được tái bản
+*  ngoại động từ
+- in lại, tái bản (sách...)
+
+
+
+
+
+@reprisal   /ri'praizəl/
+*  danh từ
+- sự trả thù, sự trả đũa
+=to make reprisals on someone+ trả thù ai
+
+
+
+
+
+@republicanism   /ri'pʌblikənizm/
+*  danh từ
+- chủ nghĩa cộng hoà
+
+
+
+
+
+@republish   /'ri:'pʌbliʃ/
+*  ngoại động từ
+- xuất bản lại, tái bản
+
+
+
+
+
+@resale   /'ri:'seil/
+*  danh từ
+- sự bán lại
+
+
+
+
+
+@rescind   /ri'sind/
+*  ngoại động từ
+- huỷ bỏ, thủ tiêu (luật hợp đồng...)
+
+
+
+
+
+@rescission   /ri'siʤn/
+*  danh từ
+- sự huỷ bỏ, sự thủ tiêu
+
+
+
+
+
+@rescript   /'ri:skript/
+*  danh từ
+- sự viết lại, bản viết lại
+- huấn lệnh; lời công bố (của nhà cầm quyền, của chính phù)
+- thư trả lời của giáo hoàng (về vấn đề luật giáo hội...)
+
+
+
+
+
+@reseda   /'residə/
+*  danh từ
+- (thực vật học) cỏ mộc tê
+
+
+
+
+
+@resemblance   /ri'zembləns/
+*  danh từ
+- sự giống nhau
+=to bear a resemblance to+ giống với
+
+
+
+
+
+@rubicundity   /,ru:bi'kɔnditi/
+*  danh từ
+- màu đỏ, vẻ đỏ đắn, vẻ hồng hào
+
+
+
+
+
+@rubidium   /ru:'bidiəm/
+*  danh từ
+- (hoá học) Rubiđi
+
+
+
+
+
+@rucksack   /'ruksæk/
+*  danh từ
+- cái ba lô
+
+
+
+
+
+@ruction   /'rʌkʃn/
+*  danh từ
+- (từ lóng) sự phá quấy, sự ồn ào
+- cuộc ẩu đả
+!there will be ructions
+- mọi việc sẽ không ổn, mọi việc sẽ không trôi chảy
+
+
+
+
+
+@rudd   /rʌd/
+*  danh từ
+- (động vật học) cá chày Âu
+
+
+
+
+
+@rudder   /'rʌdə/
+*  danh từ
+- bánh lái
+- (nghĩa bóng) nguyên tắc chỉ đạo
+- đũa khuấy (dùng để khuấy mầm lúa mạch trong thùng ủ bia)
+
+
+
+
+
+@rudderless   /'rʌdəlis/
+*  tính từ
+- không có bánh lái
+
+
+
+
+
+@ruddiness   /'rʌdinis/
+*  danh từ
+- màu đỏ ửng, vẻ hồng hào
+- màu đỏ hoe, màu hung hung đỏ
+
+
+
+
+
+@sea robin   /'si:'rɔbin/
+*  danh từ
+- (động vật học) cá chào mào đỏ
+
+
+
+
+
+@sea rover   /'si:'rouvə/
+*  danh từ
+- giặc biển, cướp biển
+- tàu cướp biển
+
+
+
+
+
+@sea swallow   /'si:'swɔlou/
+*  danh từ
+- (động vật học) nhạn biển
+
+
+
+
+
+@sea-acorn   /'si:'eikɔ:n/
+*  danh từ
+- con hà
+
+
+
+
+
+@sea-anchor   /'si:,æɳkə/
+*  danh từ
+- (hàng hải) neo phao
+
+
+
+
+
+@sea-angel   /'si:'eindʤəl/
+*  danh từ
+- (động vật học) cá đuối lưỡi cày
+
+
+
+
+
+@sea-arm   /'si:ɑ:m/
+*  danh từ
+- eo biển
+
+
+
+
+
+@sea-barrow   /'si:'bærou/
+*  danh từ
+- bọc trứng cá đuối
+
+
+
+
+
+@sea-bathing   /'si:,bɑ:θiɳ/
+*  danh từ
+- sự tắm biển
+
+
+
+
+
+@short snort   /'ʃɔ:t'snɔ:t/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hớp rượu mạnh
+
+
+
+
+
+@short subject   /'ʃɔ:t'sʌbdʤikt/
+*  danh từ
+- phim ngắn, phim phụ ((thường) chiếu kèm với phim chính)
+
+
+
+
+
+@short temper   /'ʃɔ:t,tempə/
+*  danh từ
+- tính hay cáu, tính nóng
+
+
+
+
+
+@short-head   /'ʃɔ:thed/
+*  ngoại động từ
+- về trước gần một đầu ngựa (đua ngựa)
+
+
+
+
+
+@short-headed   /'ʃɔ:t'hedid/
+*  tính từ
+- có đầu ngắn
+
+
+
+
+
+@short-horned   /'ʃɔ:t'hɔ:nd/
+*  tính từ
+- có sừng ngắn
+
+
+
+
+
+@short-legged   /'ʃɔ:t'legd/
+*  tính từ
+- có chân ngắn
+
+
+
+
+
+@skin-disease   /'skindi,zi:z/
+*  danh từ
+- (y học) bệnh ngoài da
+
+
+
+
+
+@skin-diver   /'skin,daivə/
+*  danh từ
+- thợ lặn trần (không mặc áo lặn)
+
+
+
+
+
+@skin-dresser   /'skin,dresə/
+*  danh từ
+- người thuộc da lông
+
+
+
+
+
+@skin-game   /'skingeim/
+*  danh từ
+- (từ lóng) sự lừa đảo
+
+
+
+
+
+@skin-grafting   /'skin,grɑ:ftiɳ/
+*  danh từ
+- (y học) sự ghép da, sự vá da
+
+
+
+
+
+@skinflint   /'skinflint/
+*  danh từ
+- người keo kiệt, người vắt cổ chày ra mỡ
+
+
+
+
+
+@skittle-pin   /'skitlpin/
+*  danh từ
+- con ky (để chơi ky)
+
+
+
+
+
+@skive   /skaiv/
+*  ngoại động từ
+- lạng mỏng, bào mỏng (da, cao su)
+- mài mòn (mặt ngọc)
+
+
+
+
+
+@skiver   /'skaivə/
+*  danh từ
+- người lạng mỏng (da, cao su...)
+- dao lạng (để lạng mỏng da)
+- da lạng (đã lạng mỏng)
+
+
+
+
+
+@skivvies   /'skiviz/
+*  danh từ số nhiều
+- (hàng hải),  (từ lóng) áo lót
+
+
+
+
+
+@skivvy   /'skivi/
+*  danh từ
+- (thông tục) ((thường) guội đầy tớ gái
+
+
+
+
+
+@skoal   /skoul/
+*  thán từ
+- (từ Mỹ,nghĩa Mỹ) chúc sức khoẻ anh!
+
+
+
+
+
+@skua   /'skju:ə/
+*  danh từ
+- (động vật học) chim cướp biển (thuộc bộ mòng biển)
+
+
+
+
+
+@supernatant   /,sju:pə'neitənt/
+*  tính từ
+- nổi trên mặt
+
+
+
+
+
+@supernatural   /,sju:pə'nætʃrəl/
+*  tính từ
+- siêu tự nhiên
+
+
+
+
+
+@superorder   /'sju:pər'ɔ:də/
+*  danh từ
+- (sinh vật học) liên bộ
+
+
+
+
+
+@superordinary   /'sju:pər'ɔ:dnri/
+*  tính từ
+- khác thường
+
+
+
+
+
+@superorganic   /'sju:pərɔ:'gænik/
+*  tính từ
+- siêu hữu cơ
+
+
+
+
+
+@superoxygenation   /,sju:pərɔk,sidʤi'neiʃn/
+*  danh từ
+- sự quá oxy hoá
+
+
+
+
+
+@superparasitic   /,sju:pə,pærə'sitik/
+*  tính từ
+- (sinh vật học) ký sinh cấp hai
+
+
+
+
+
+@superpcrasite   /,sju:pə'pærəsait/
+*  danh từ
+- (sinh vật học) loài ký sinh cấp hai
+
+
+
+
+
+@superphosphate   /,sju:pə'fɔsfeit/
+*  danh từ
+- Xupephôphat
+
+
+
+
+
+@superphysical   /,sju:pə'fizikəl/
+*  tính từ
+- siêu vật lý
+
+
+
+
+
+@superposable   /,sju:pə'pouzəbl/
+*  tính từ
+- có thể chồng lên nhau, chồng khít lên nhau
+
+
+
+
+
+@superpose   /,sju:pə'pouz/
+*  ngoại động từ
+- chồng, chồng lên
+
+
+
+
+
+@superposition   /,sju:pəpə'ziʃn/
+*  danh từ
+- sự chồng
+
+
+
+
+
+@superprofit   /,sju:pə'prɔfit/
+*  danh từ
+- siêu lợi nhuận
+
+
+
+
+
+@supper   /'sʌpə/
+*  danh từ
+- bữa cơm tối
+
+
+
+
+
+@supperless   /'sʌpəlis/
+*  tính từ
+- không có cơm tối
+
+
+
+
+
+@supplant   /sə'plɑ:nt/
+*  ngoại động từ
+- hất cẳng (ai)
+
+
+
+
+
+@supplanter   /sə'plɑ:ntə/
+*  danh từ
+- người hất cẳng
+
+
+
+
+
+@supple   /'sʌpl/
+*  tính từ
+- mềm, dễ uốn
+- mềm mỏng
+- luồn cúi, quỵ luỵ
+
+
+
+
+
+@tetrasyllabic   /'tetrəsi'læbik/
+*  tính từ
+- có bốn âm tiết
+
+
+
+
+
+@tetrasyllable   /'tetrə,siləbl/
+*  danh từ
+- từ bốn âm tiết
+
+
+
+
+
+@tetratomic   /'tetrə'tɔmik/
+*  tính từ
+- có bốn nguyên tử
+
+
+
+
+
+@tetravalent   /'tetrə'veilənt/
+*  tính từ
+- (hoá học) có hoá trị bốn
+
+
+
+
+
+@tetrode   /'tetroud/
+*  danh từ
+- (vật lý) tetrôt, ống bốn cực
+
+
+
+
+
+@tetter   /'tetə/
+*  danh từ
+- (y học) bệnh eczêma
+
+
+
+
+
+@texedo   /tʌk'si:dou/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) áo ximôckinh ((viết tắt) tux)
+
+
+
+
+
+@thee   /ði:/
+*  danh từ
+- (thơ ca); (tôn giáo) ngươi, anh, người
+
+
+
+
+
+@theft   /θeft/
+*  danh từ
+- sự ăn trộm, sự trộm cắp
+=to commit theft+ phạm tội ăn trộm
+=petty theft+ sự ăn cắp vặt
+
+
+
+
+
+@theine   /'θi:in/
+*  danh từ
+- Tein, tinh trà
+
+
+
+
+
+@their   /ðeə/
+*  tính từ sở hữu
+- của chúng, của chúng nó, của họ
+
+
+
+
+
+@theirs   /ðeəz/
+*  đại từ sở hữu
+- cái của chúng, cái của họ
+
+
+
+
+
+@theism   /'θi:izm/
+*  danh từ
+- (triết học) thuyết có thần
+- (y học) chứng trúng độc tein
+- bệnh nghiện trà nặng
+
+
+
+
+
+@theist   /'θi:ist/
+*  danh từ
+- (triết học) người theo thuyết có thần
+
+
+
+
+
+@thenar   /'θi:nɑ:/
+*  danh từ
+- lòng bàn tay; gan bàn chân
+
+
+
+
+
+@thence   /ðens/
+*  phó từ
+- từ đó, do đó, do đấy
+
+
+
+
+
+@theoretician   /,θiəre'tiʃn/
+*  danh từ
+- nhà lý luận
+
+
+
+
+
+@theoretics   /θiə'retiks/
+*  danh từ,  số nhiều dùng như số ít
+- phần lý luận, lý thuyết
+=theoretics and practice+ lý thuyết và thực hành
+
+
+
+
+
+@theorist   /'θiərist/
+*  danh từ
+- nhà lý luận
+
+
+
+
+
+@theorize   /'θiəraiz/
+*  nội động từ
+- tạo ra lý thuyết về
+- nói lý luận
+
+
+
+
+
+@theorizer   /'θiəraizə/
+*  danh từ
+- nhà lý luận
+-(mỉa mai) người lý thuyết suông, người không thực tế
+
+
+
+
+
+@thermoelectric   /'θə:moui'lektrik/
+*  tính từ
+- (thuộc) nhiệt điện
+
+
+
+
+
+@thermoelectricity   /'θə:mouilek'trisiti/
+*  danh từ
+- nhiệt điện
+
+
+
+
+
+@thermogene   /'θə:moudʤi:n/
+*  tính từ
+- sinh nhiệt
+
+
+
+
+
+@thermogenesis   /'θə:mou'dʤenisis/
+*  danh từ
+- sự sinh nhiệt
+
+
+
+
+
+@thermogenetic   /'θə:moudʤi'netik/
+*  tính từ
+- sinh nhiệt
+
+
+
+
+
+@thermograph   /'θə:məgrɑ:f/
+*  danh từ
+- máy ghi nhiệt
+
+
+
+
+
+@thermology   /θə'mɔlədʤi/
+*  danh từ
+- nhiệt học
+
+
+
+
+
+@tuberculosis   /tju:,bə:kju'lousis/
+*  danh từ
+- bệnh lao
+=pulmonary tuberculosis+ lao phổi
+
+
+
+
+
+@tuberculous   /tju:'bə:kjuləs/
+*  tính từ
+- mắc bệnh lao; có tính chất lao
+
+
+
+
+
+@tuberiferous   /,tju:bə'rifərəs/
+*  tính từ
+- có củ (cây)
+
+
+
+
+
+@tuberiform   /'tju:bərifɔ:m/
+*  tính từ
+- hình củ
+
+
+
+
+
+@tuberose   /'tju:bərouz/
+*  tính từ
+- đầy đủ, có củ
+- giống như củ
+*  danh từ
+- (thực vật học) cây hoa huệ
+
+
+
+
+
+@tuberous   /'tju:bərəs/
+*  tính từ
+- (thực vật học) thành củ, như củ
+=tuberous root+ rễ củ
+
+
+
+
+
+@tuneless   /'tju:nlis/
+*  tính từ
+- không đúng điệu
+- không du dương, không êm ái
+- không chơi, không gảy (nhạc khí)
+
+
+
+
+
+@tuner   /'tju:nə/
+*  danh từ
+- người lên dây (pianô...)
+
+
+
+
+
+@tunery   /'tə:nəri/
+*  danh từ
+- nghề tiện
+- đồ tiện
+- xưởng tiện
+
+
+
+
+
+@tung oil   /'tʌɳ'ɔil/
+*  danh từ
+- dầu tung
+
+
+
+
+
+@tung-tree   /'tʌɳtri:/
+*  danh từ
+- (thực vật học) cây tung (cây cho dầu, cùng loại với trầu)
+
+
+
+
+
+@tungstate   /'tʌɳsteit/
+*  danh từ
+- (hoá học) Vonfamat
+
+
+
+
+
+@tungsten   /'tʌɳstən/
+*  danh từ
+- (hoá học) Vonfam
+
+
+
+
+
+@tungstic   /'tʌɳstik/
+*  tính từ
+- (hoá học) Vonfamic
+
+
+
+
+
+@unfelt   /'ʌn'felt/
+*  tính từ
+- không cảm thấy, không thấy
+
+
+
+
+
+@unfeminine   /'ʌn'feminin/
+*  tính từ
+- không thuộc đàn bà, không như đàn bà; không yểu điệu, không dịu dàng
+
+
+
+
+
+@unfence   /'ʌn'fens/
+*  ngoại động từ
+- bỏ hàng rào
+
+
+
+
+
+@unfermented   /'ʌnfə:'mentid/
+*  tính từ
+- không có men
+=unfermented bread+ bánh mì không có men
+- chưa lên men, không lên men, không chua, chưa trở
+=unfermented liquor+ rượu chưa chua
+
+
+
+
+
+@unfertilized   /'ʌn'fə:tilaizd/
+*  tính từ
+- không được bón phân (đất)
+- (sinh vật học) không được thụ tinh, không được làm thụ thai
+
+
+
+
+
+@unfetter   /'ʌn'fetə/
+*  ngoại động từ
+- tháo xiềng, mở cùm
+- (nghĩa bóng) giải phóng
+
+
+
+
+
+@unrippled   /' n'ripld/
+*  tính từ
+- không gợn lăn tăn, phẳng lặng (mặt nước...)
+
+
+
+
+
+@unrivalled   / n'raiv ld/
+*  tính từ
+- không gì sánh được, vô song, vô địch
+
+
+
+
+
+@unrivet   /' n'rivit/
+*  ngoại động từ
+- tháo đinh tán, bỏ đinh tán
+- không tập trung (sự chú ý, mắt nhìn...)
+- để li (tình bạn...)
+
+
+
+
+
+@unrobe   /' n'roub/
+*  ngoại động từ
+- cởi áo choàng (cho ai)
+
+
+
+
+
+@unroll   /' n'roul/
+*  động từ
+- mở ra, tri ra
+
+
+
+
+
+@unromantic   /' nr 'm ntik/
+*  tính từ
+- không có tính chất tiểu thuyết; tầm thường (văn chưng)
+
+
+
+
+
+@unroof   /' n'ru:f/
+*  ngoại động từ
+- dỡ mái (nhà)
+
+
+
+
+
+@unroofed   /' n'ru:ft/
+*  tính từ
+- bị dỡ mái (nhà)
+
+
+
+
+
+@unroost   /' n'ru:st/
+*  ngoại động từ
+- không cho đậu để ngủ (gà...)
+- không cho ngủ trọ
+
+
+
+
+
+@unroot   /' n'ru:t/
+*  ngoại động từ
+- nhổ bật rễ; trừ tiệt
+
+
+
+
+
+@unroyal   /' n'r i l/
+*  tính từ
+- không như vua chúa; không xứng đáng với vua chúa
+
+
+
+
+
+@unruffled   /' n'r fld/
+*  tính từ
+- mượt, không rối (tóc)
+- không gợn sóng (biển)
+- (nghĩa bóng) điềm tĩnh, trầm tĩnh, bình tĩnh
+
+
+
+
+
+@unruled   /' n'ru:ld/
+*  tính từ
+- không kẻ (giấy)
+- không bị đô hộ, không bị cai trị, không bị thống trị
+- không bị kiềm chế (dục vọng)
+
+
+
+
+
+@unruly   / n'ru:li/
+*  tính từ
+- ngỗ ngược, ngang ngạnh (trẻ con); bất kham (ngựa)
+- th lỏng, phóng túng (tình dục)
+
+
+
+
+
+@unrumple   /' n'r mpl/
+*  ngoại động từ
+- vuốt phẳng (quần áo, cho mất nếp nhàu); gỡ rối, chi (tóc)
+
+
+
+
+
+@unsaddle   /' n's dl/
+*  ngoại động từ
+- tháo yên (ngựa)
+- làm ng  (người cưỡi ngựa)
+
+
+
+
+
+@unsafe   /' n'seif/
+*  tính từ
+- không an toàn, không chắc chắn; nguy hiểm
+
+
+
+
+
+@unsafeness   /' n'seifnis/
+*  danh từ
+- tính không an toàn, tính không chắc chắn; tính nguy hiểm
+
+
+
+
+
+@unsaid   /' n'sed/
+*  tính từ
+- không nói ra, chưa nói ra
+=some things are better left unsaid+ nhiều điều không nói ra thì tốt hơn
+
+
+
+
+
+@vanillin   /'vænilin/
+*  danh từ
+- (hoá học) vanilin
+
+
+
+
+
+@vanish   /'væniʃ/
+*  nội động từ
+- biến mất, lẩn mất, biến dần, tiêu tan ((nghĩa đen) & (nghĩa bóng))
+=to vanish from sight+ biến mất
+=to vanish in the crowd+ lẩn mất vào đám đông
+=hopes vanished like a bubble+ hy vọng tiêu tan như mây khói
+- (toán học) triệt tiêu; biến mất
+*  danh từ
+- (ngôn ngữ học) âm lướt
+
+
+
+
+
+@vanishing   /'væniʃiɳ/
+*  danh từ
+- sự biến mất, sự tiêu tan
+*  tính từ
+- biến mất, tiêu tan
+
+
+
+
+
+@vanishing cream   /'væniʃiɳ'kri:m/
+*  danh từ
+- kem tan, kem nền (để xoa mặt) ((cũng) foundation cream)
+
+
+
+
+
+@vanishing-line   /'væniʃiɳlain/
+*  danh từ
+- (toán học) tuyến biến mất
+
+
+
+
+
+@vanishing-point   /'væniʃiɳpɔint/
+*  danh từ
+- (toán học) điểm biến mất
+
+
+
+
+
+@vanquisher   /'væɳkwiʃə/
+*  danh từ
+- người chiến thắng
+- người chế ngự được (dục vọng của mình)
+
+
+
+
+
+@vantage   /'vɑ:ntidʤ/
+*  danh từ
+- sự thuận lợi, sự hơn thế
+=place (point) of vantage+ vị trí thuận lợi
+=to have someone at vantage+ chiếm ưu thế so với ai, thắng thế ai
+- (thể dục,thể thao) phần thắng
+
+
+
+
+
+@wash-tub   /'wɔʃtʌb/
+*  danh từ
+- chậu giặt
+
+
+
+
+
+@wash-up   /'wɔʃ'ʌp/
+*  danh từ
+- (như) washing-up
+- vật giạt vào bờ
+
+
+
+
+
+@washable   /'wɔʃəbl/
+*  tính từ
+- có thể giặt được (vải)
+
+
+
+
+
+@zygospore   /'zaigəspɔ:/
+*  danh từ
+- (thực vật học) bào tử tiếp hợp
+
+
+
+
+
+@zygote   /'zaigout/
+*  danh từ
+- (thực vật học) hợp tử
+
+
+
+
+
+@zymase   /'zaimeis/
+*  danh từ
+- (sinh vật học) zymaza
+
+
+
+
+
+@zymology   /zai'mɔlədʤi/
+*  danh từ
+- khoa nghiên cứu men
+
+
+
+
+
+@zymometer   /zai'mɔmitə/
+*  danh từ
+- máy đo độ lên men
+
+
+
+
+
+@zymosis   /zai'mousis/
+*  danh từ
+- sự lên men
+
+
+
+
+
+@zymotechnics   /,zaimə'tekniks/
+*  danh từ số nhiều
+- thuật làm lên men
+
+
+
+
+
+@zymotic   /zai'mɔtik/
+*  tính từ
+- (y học) (thuộc) sự lên men
+
+
+
+

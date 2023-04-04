@@ -1,0 +1,60 @@
+.viewMail{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+.viewMail-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.viewMail-top-left{
+    display: flex;
+    align-items: center;
+}
+.viewMail-top-left i{
+    padding: 10px;
+    font-size: 20px;
+    color: gray;
+    margin-right: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.viewMail-top-left i:hover{
+    background-color: rgb(209, 206, 206);
+}
+.viewMail-avatar{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.viewMail-avatar img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.viewMail-name b{
+    font-size: 18px;
+}
+.viewMail-name p{
+    font-size: 15px;
+    color: rgb(99, 99, 99);
+}
+.viewMail-top-right span{
+    font-weight: bold;
+    padding: 0px 20px 0px 0px;
+    color: rgb(77, 77, 77);
+}
+
+.viewMail-bottom{
+    width: 100%;
+    padding-left: 30px;
+}
+.viewMail-title{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.viewMail-body{
+    width: 100%;
+}

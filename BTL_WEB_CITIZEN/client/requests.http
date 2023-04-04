@@ -1,0 +1,352 @@
+
+POST http://localhost:8800/api/auth/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "accountName": "02010102", 
+    "password": "12345678", 
+    "typeAccount": "B2",
+    "providerAccount": "61ae1eaf12c1e9d3988b83e7"
+}
+
+
+###
+POST http://localhost:8800/api/auth/login HTTP/1.1
+Content-Type: application/json
+
+{
+    "email": "0201",
+    "password": "12345678"
+}
+
+###
+PUT http://localhost:8800/api/changepassword HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmMzEyYzFlOWQzOTg4YjgzZWYiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMSIsImlhdCI6MTYzOTQwOTYzNH0.42v-U8IZy4zv-jxcr_QmbwMSOMLDmw02qm-gL7oWj6Q
+
+{
+    "password": "12345678",
+    "confirmPassword": "12345678",
+    "oldPassword": "12345679",
+    "userId": "61ae1ef312c1e9d3988b83ef"
+}
+
+###
+PUT http://localhost:8800/api/changepasswordsecondary HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWU4NDEyYzFlOWQzOTg4YjgzZGYiLCJ0eXBlQWNjb3VudCI6IkEzIiwiYWNjb3VudE5hbWUiOiIwMjAxIiwiaWF0IjoxNjQwMDg5MzI3fQ.Li5mBljRG0o-jJr0EY1k8TkRaqyVpGA2AQrx8monl-0
+
+{
+    "password": "",
+    "accountName": "020101"
+}
+
+
+###
+GET http://localhost:8800/api/getuser HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmMzEyYzFlOWQzOTg4YjgzZWYiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMSIsImlhdCI6MTYzOTQwOTYzNH0.42v-U8IZy4zv-jxcr_QmbwMSOMLDmw02qm-gL7oWj6Q
+
+###
+GET http://localhost:8800/api/getauser/61ab6a6ca2247522a0f2ac1d HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmMzEyYzFlOWQzOTg4YjgzZWYiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMSIsImlhdCI6MTYzOTQwOTYzNH0.42v-U8IZy4zv-jxcr_QmbwMSOMLDmw02qm-gL7oWj6Q
+
+
+###
+GET http://localhost:8800/api/getalluserisprovied/61ae1d9612c1e9d3988b83d3 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+
+
+###
+POST http://localhost:8800/api/addcode HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+{
+    "name": "Thôn Quang Thừa",
+    "code": "01020102",
+    "codeLength": 8,
+    "level": "Thôn",
+    "provider": "61ab6a6ca2247522a0f2ac1d"
+}
+
+
+###
+GET http://localhost:8800/api/getallcode/02 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+###
+GET http://localhost:8800/api/getallcodeandcitizen/00 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+
+###
+POST http://localhost:8800/api/addcitizen HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+{
+    "date": 12-22-2001,
+}
+
+
+###  //?numCCCD=01298794594854
+GET http://localhost:8800/api/getcitizennumCCCD?numCCCD=01298794594854 HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+
+###
+GET http://localhost:8800/api/getcitizenid/61b75e8943b73e95c1905d61 HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+###
+PUT http://localhost:8800/api/updatecitizen/61b75e8943b73e95c1905d61 HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+{
+    
+    "_id": "61b75ed143b73e95c1905d65",
+    "createdAt": "2021-12-13T14:55:13.609+00:00",
+    "updatedAt": "2021-12-13T14:55:13.609+00:00",
+    "name": "Kiều Văn Tuyên",
+    "numCCCD": "01238794454854",
+    "education": "Đại học",
+    "nation": "Kinh",
+    "religion": "Không",
+    "phone": "0109209453",
+    "email": "tuyen@gmail.com",
+    "avatar": "",
+    "date": "2001-03-01",
+    "job": "Công nghệ",
+    "gender": "Nam",
+    "infoDetail": "Không có",
+    "infoFamily": "Không có",
+    "hometownCity": "Tỉnh Hà Nam",
+    "hometownDistrict": "Huyện Kim Bảng",
+    "hometownWard": "Xã Tượng Lĩnh",
+    "hometownVillage": "Thôn Phù Đê",
+    "addressCity": "Tỉnh Hà Nam",
+    "addressDistrict": "Huyện Kim Bảng",
+    "addressWard": "Xã Tượng Lĩnh",
+    "addressVillage": "Thôn Phù Đê",
+    "codeArea": "020101",
+    "timeAdd": "2021-12-13",
+    "typeAccount": "B2"
+}
+
+###
+DELETE http://localhost:8800/api/deletecitizen/61b9443d9b528ea737537d7f HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+{
+    "codeArea": "020101",
+    "timeAdd": "2021-12-13",
+    "typeAccount": "B2"
+}
+
+
+###
+GET http://localhost:8800/api/getallcitizencode?codeName=Thôn Quang Thừa&level=Thôn HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmMzEyYzFlOWQzOTg4YjgzZWYiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMSIsImlhdCI6MTYzOTQ4MzkwNH0.GaYAgcu1E8RXybUJ1ycExSEh29AwLkIYvlYkf07XOLI
+
+
+###
+GET http://localhost:8800/api/getcitizenmanycode?codeName=Xã Tượng Lĩnh,Xã Lê Hồ&level=Xã HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmMzEyYzFlOWQzOTg4YjgzZWYiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMSIsImlhdCI6MTYzOTQ4MzkwNH0.GaYAgcu1E8RXybUJ1ycExSEh29AwLkIYvlYkf07XOLI
+
+
+###
+GET http://localhost:8800/api/getcitizennumCCCD?numCCCD=03520100327667 HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmMzEyYzFlOWQzOTg4YjgzZWYiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMSIsImlhdCI6MTYzOTQ4MzkwNH0.GaYAgcu1E8RXybUJ1ycExSEh29AwLkIYvlYkf07XOLI
+
+
+###
+
+PUT http://localhost:8800/api/updateuser/61ab6a6ca2247522a0f2ac1d HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+{
+    "name": "Hà Văn Minh",
+    "phone": "012348954542",
+    "avatar": "https://vaithuhayho.com/wp-content/uploads/2021/03/anh-avatar-dep-21.jpg",
+    "date": "1976-08-04",
+    "nation": "Kinh",
+    "religion": "Không",
+    "gender": "Nam",
+    "address": "Xã Tượng Lĩnh, Huyện Kim Bảng, Tỉnh Hà Nam",
+    "hometown": "Phường Mai Dịch, Quận Cầu Giấy, Thành phố Hà Nội",
+    "infoOther": "Không có"
+
+}
+
+
+###
+
+PUT http://localhost:8800/api/opencensuscode HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWQ5NjEyYzFlOWQzOTg4YjgzZDMiLCJwb3NpdGlvbiI6IkNoaSBj4bulYyBkw6JuIHPhu5EgdGh14buZYyBT4bufIFkgdOG6vyBU4buJbmggSMOgIE5hbSIsImlhdCI6MTYzOTQwMDk4MX0.gYxFDygLjpy9Fa6bul3u2NluDJ5NjXf-WaWS8a3wono
+
+{
+    "timeOpen": "2021-12-13",
+    "timeClose": "2021-12-20",
+    "statusCensus": true,
+    "codeArea": "020101"
+}
+
+###
+
+PUT http://localhost:8800/api/checktimecensus HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFiNmE2Y2EyMjQ3NTIyYTBmMmFjMWQiLCJ0eXBlQWNjb3VudCI6IkExIiwiYWNjb3VudE5hbWUiOiJhMUBnbWFpbC5jb20iLCJpYXQiOjE2Mzk3NDg0MzZ9.-y8nXfKuXLB3cOb9Qy14k6Q8SY7aRJDa8E1W40F1vcU
+
+
+
+###
+POST http://localhost:8800/api/addcitizen HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmODEyYzFlOWQzOTg4YjgzZjMiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMiIsImlhdCI6MTYzOTQwNDMwMX0.ECJlULkIRczvIkTpB98WRa98qfxfrhIpjKE2_Kfutrw
+
+{
+    "name": "Kiều Văn Tuyên",
+    "numCCCD": "01238794454854",
+    "education": "Đại học",
+    "nation": "Kinh",
+    "religion": "Không",
+    "phone": "0109209453",
+    "email": "tuyen@gmail.com",
+    "avatar": "",
+    "date": "2001-03-01",
+    "job": "Công nghệ",
+    "gender": "Nam",
+    "infoDetail": "Không có",
+    "infoFamily": "Không có",
+    "hometownCity": "Tỉnh Hà Nam",
+    "hometownDistrict": "Huyện Kim Bảng",
+    "hometownWard": "Xã Tượng Lĩnh",
+    "hometownVillage": "Thôn Phù Đê",
+    "addressCity": "Thành phố Hà Nội",
+    "addressDistrict": "Quận Cầu Giấy",
+    "addressWard": "Phường Mai Dịch",
+    "addressVillage": "Đường Phạm Văn Đồng",
+    "codeArea": "0201",
+    "timeAdd": "2021-12-13",
+    "typeAccount": "B2"
+
+}
+
+###
+GET http://localhost:8800/api/getcitizengender?codeName=Huyện Kim Bảng&level=Huyện HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmODEyYzFlOWQzOTg4YjgzZjMiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMiIsImlhdCI6MTYzOTQwNDMwMX0.ECJlULkIRczvIkTpB98WRa98qfxfrhIpjKE2_Kfutrw
+
+###
+GET http://localhost:8800/api/getcitizennation?codeName=Tỉnh Hà Nam&level=Tỉnh HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmODEyYzFlOWQzOTg4YjgzZjMiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMiIsImlhdCI6MTYzOTQwNDMwMX0.ECJlULkIRczvIkTpB98WRa98qfxfrhIpjKE2_Kfutrw
+
+
+###
+GET http://localhost:8800/api/getcitizenreligion?codeName=Tỉnh Hà Nam&level=Tỉnh HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmODEyYzFlOWQzOTg4YjgzZjMiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMiIsImlhdCI6MTYzOTQwNDMwMX0.ECJlULkIRczvIkTpB98WRa98qfxfrhIpjKE2_Kfutrw
+
+###
+GET http://localhost:8800/api/getcitizenage?codeName=Tỉnh Hà Nam&level=Tỉnh HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmODEyYzFlOWQzOTg4YjgzZjMiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMiIsImlhdCI6MTYzOTQwNDMwMX0.ECJlULkIRczvIkTpB98WRa98qfxfrhIpjKE2_Kfutrw
+
+###
+GET http://localhost:8800/api/getcitizeneducation?codeName=Tỉnh Hà Nam&level=Tỉnh HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmODEyYzFlOWQzOTg4YjgzZjMiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMiIsImlhdCI6MTYzOTQwNDMwMX0.ECJlULkIRczvIkTpB98WRa98qfxfrhIpjKE2_Kfutrw
+
+###
+GET http://localhost:8800/api/getcitizenjob?codeName=Tỉnh Hà Nam&level=Tỉnh HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWVmODEyYzFlOWQzOTg4YjgzZjMiLCJ0eXBlQWNjb3VudCI6IkIyIiwiYWNjb3VudE5hbWUiOiIwMjAxMDEwMiIsImlhdCI6MTYzOTQwNDMwMX0.ECJlULkIRczvIkTpB98WRa98qfxfrhIpjKE2_Kfutrw
+
+
+###
+POST http://localhost:8800/api/createpost HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+{
+    "title": "Tình hình dân số Tỉnh Hà Nội",
+    "content": "<p>Tình hình dân số Tỉnh Hà Nội trong những năm gần đây có nhiều thay đỏi.</p>",
+    "images": ["https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&w=1000&q=80", "https://images.ctfassets.net/hrltx12pl8hq/7yQR5uJhwEkRfjwMFJ7bUK/dc52a0913e8ff8b5c276177890eb0129/offset_comp_772626-opt.jpg?fit=fill&w=800&h=300"],
+    "codeName": "Tỉnh Hà Nam",
+    "author": "61ae1d9612c1e9d3988b83d3"
+}
+
+###
+PUT http://localhost:8800/api/updatetotalwatch HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+{
+    "postId": "61bee833a5d8acefd58c3206",
+    "total": 4
+}
+
+###
+GET http://localhost:8800/api/getpoststotalwatch HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+
+###
+GET http://localhost:8800/api/getpostid/61bedd25514b4063d08073f6 HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3OTE2NjAwMTY0N2Q0YjA5OTU2MjIiLCJpYXQiOjE2MzczMjQxOTF9.2BUoXQRSP-UQr4KFDQHyfC46vlnWmz7L8hoElLUERRU
+
+
+###
+POST http://localhost:8800/api/createmail HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFiNmE2Y2EyMjQ3NTIyYTBmMmFjMWQiLCJ0eXBlQWNjb3VudCI6IkExIiwiYWNjb3VudE5hbWUiOiJhMUBnbWFpbC5jb20iLCJpYXQiOjE2Mzk5NzA4MzN9.-hpx_Ptoj9_mjXct99tZdnzhcPKGFrHFp5RcWLxgPhM
+
+{
+    "title": "Báo cáo tình hình khai báo dân số",
+    "content": "Tình hình khai báo dân số đang rất tích cực...",
+    "sender": "61ae1d6112c1e9d3988b83cd",
+    "receiver": ["61ab6a6ca2247522a0f2ac1d"]
+}
+
+
+###
+PUT http://localhost:8800/api/updatewatched HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWQ2MTEyYzFlOWQzOTg4YjgzY2QiLCJ0eXBlQWNjb3VudCI6IkEyIiwiYWNjb3VudE5hbWUiOiIwMSIsImlhdCI6MTYzOTk3MTQ0OH0.PDqOjhhQtUFryfC-PUlIymGs5-lELP9gkT1GxcrC52s
+
+{
+    "mailId": "61c082984fe1f47571a2ce06"
+}
+
+###
+PUT http://localhost:8800/api/deletemail HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWQ2MTEyYzFlOWQzOTg4YjgzY2QiLCJ0eXBlQWNjb3VudCI6IkEyIiwiYWNjb3VudE5hbWUiOiIwMSIsImlhdCI6MTYzOTk3MTQ0OH0.PDqOjhhQtUFryfC-PUlIymGs5-lELP9gkT1GxcrC52s
+
+{
+    "mailId": "61bffa5670b612483273b18f"
+}
+
+###
+GET http://localhost:8800/api/getallmail HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFiNmE2Y2EyMjQ3NTIyYTBmMmFjMWQiLCJ0eXBlQWNjb3VudCI6IkExIiwiYWNjb3VudE5hbWUiOiJhMUBnbWFpbC5jb20iLCJpYXQiOjE2Mzk5ODY2Mjl9.fCMLQS8q6hp0qagoPRmf5Z3v1nsWdwzLhP8j-zugoag
+
+
+###
+PUT http://localhost:8800/api/completecensus HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWFlMWU4NDEyYzFlOWQzOTg4YjgzZGYiLCJ0eXBlQWNjb3VudCI6IkEzIiwiYWNjb3VudE5hbWUiOiIwMjAxIiwiaWF0IjoxNjQwMDczNzA2fQ.u3hoPaAMjB8AMnX0zpfVTIN7l9JSKoozTMO6Wy2Qy1s

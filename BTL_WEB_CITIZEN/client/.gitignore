@@ -1,0 +1,44 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+// hướng dẫn chạy chương trình
+
+- đầu tiên mở project lên với visual studio code
+- mở terminal trên visual code lên
+
+// chạy backend 
+- cd server  (truy cập vào thư mục server)
+- npm install (cài đặt các module cho server)
+- npm start (khởi chạy server)
+
+// tạo một CDSL với mongoDB
+cài đặt mongoServer và mongoDB Compass
+sau đó tạo một database rồi copy đường dẫn có dạng:    mongodb://localhost/name_DB
+vào file .env trong thư mục server (dán vào chỗ DB_URL = mongodb://localhost/name_DB)
+
+// chạy frontend
+- cd client  (truy cập vào thư mục client)
+- npm install (cài đặt các module cho client)
+- npm start (khởi chạy phía front-end)

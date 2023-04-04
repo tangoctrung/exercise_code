@@ -1,0 +1,190 @@
+.provideCode{
+    width: 100%;
+    min-height: calc(100vh - 70px);
+}
+.provideCode-top{
+    width: 100%;
+    background-color: rgb(240,242,245);
+}
+.provideCode-top h3, .provideCode-bottom h3{
+    width: 100%;
+    padding: 10px;
+    font-size: 32px;
+    color: gray;
+}
+.provideCode-top-container{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.provideCode-top-content{
+    width: 560px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border: 1.5px solid gray;
+}
+.provideCode-top-content-left{
+    margin-right: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.provideCode-top-content-left p, .provideCode-top-content-right p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.provideCode-top-content-left input, .provideCode-top-content-right input{
+    padding: 0px 20px 10px 20px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+    font-family: 'Quicksand', sans-serif;
+}
+.provideCode-top-content-right{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.provideCode-top-content-right-info{
+    display: flex;
+    align-items: center;
+}
+.provideCode-top-content-right-info input{
+    margin-right: 10px;
+}
+.provideCode-top-content-button button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 1.5px solid gray;
+    outline: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.provideCode-top-content-button{
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+.provideCode-top-content-button p{
+    color: red;
+}
+.provideCode-top-content-button p b{
+    cursor: pointer;
+}
+.modal-provideCode-text{
+    width: 400px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 20px;
+}
+.modal-provideCode-text h2{
+    color: red;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.modal-provideCode-text p{
+    width: 100%;
+    text-align: justify;
+
+    font-size: 18px;
+}
+
+
+.provideCode-bottom{
+    margin-top: 50px;
+    width: 100%;
+}
+.provideCode-bottom-button{
+    margin-left: 20px;
+}
+.provideCode-bottom-listLocal{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.provideCode-bottom-itemLocal{
+    width: 300px;
+    min-height: 200px;
+    margin: 20px;
+    padding: 10px 0px;
+    background-color: white;
+    border: 1.5px solid gray;
+}
+.provideCode-bottom-itemLocal p{
+    margin-bottom: 10px;
+    padding: 0px 0px 10px 0px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1.5px solid gray;
+}
+.listLocalName{
+    width: 100%;
+    max-height: 400px;
+    height: 400px;
+    overflow-y: scroll;
+}
+.listLocalName::-webkit-scrollbar{
+    width: 0px;
+}
+.listLocalName>span{
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+}
+.listLocalName-bottom{
+    padding: 10px 5px 5px 5px;
+    border-top: 1.5px solid gray;
+}
+.listLocalName-bottom span{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+.itemLocalName{
+    width: 280px;
+    padding: 10px;
+    /* background-color: rgb(226, 226, 226); */
+    margin: 0px 10px;
+    border-bottom: 1.5px dotted gray;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 15px;
+    color: rgb(56, 56, 56);
+}
+.itemLocalName:hover{
+    background-color: rgb(226, 226, 226);
+}
+.itemLocalName-isActive{
+    background-color: rgb(185, 185, 185);
+}
+
+@media screen and (max-width: 768px){
+    .provideCode-top-content{
+        width: 340px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .provideCode-top h3, .provideCode-bottom h3{
+        font-size: 24px;
+    }
+}

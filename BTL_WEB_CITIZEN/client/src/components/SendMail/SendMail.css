@@ -1,0 +1,52 @@
+.sendMail{
+    width: 100%;
+    height: 100%;
+    padding: 0px 0px 10px 0px;
+}
+.sendMail-top{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    background-color: rgb(65, 63, 63);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+}
+.sendMail-receiver{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+.sendMail-receiver input, .sendMail-title input{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-bottom: 1.5px solid gray;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+}
+.sendMail-body {
+    padding: 10px;
+}
+.sendMail-body {
+    width: 100%;
+}
+.sendMail-content{
+    margin-top: 10px;
+}
+.sendMail-content textarea{
+    width: 100%;
+    resize: none;
+    padding: 10px;
+    height: 200px;
+    outline: none;
+    border: 1.5px solid gray;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+.sendMail-buttonSend{
+    padding: 0px 10px;
+}

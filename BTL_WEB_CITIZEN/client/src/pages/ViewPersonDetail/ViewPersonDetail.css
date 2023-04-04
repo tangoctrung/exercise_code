@@ -1,0 +1,103 @@
+.viewPersonDetail{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0px;
+    background-color: rgb(209, 209, 209);
+}
+.viewPersonDetail-content{
+    width: 1000px;
+    background-color: white;
+    padding: 50px;
+}
+.viewPersonDetail-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-bottom: 2px dotted gray;
+}
+.viewPersonDetail-img{
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.viewPersonDetail-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.viewPersonDetail-infoBasic{
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.viewPersonDetail-infoBasic>b{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.viewPersonDetail-infoBasic p{
+    margin: 5px;
+}
+
+.viewPersonDetail-infoDetail, .viewPersonDetail-infoFamily{
+    width: 100%;
+    padding: 20px;
+    border-bottom: 2px dotted gray;
+}
+.viewPersonDetail-infoDetail h3, .viewPersonDetail-infoFamily h3{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.viewPersonDetail-infoDetailPerson, .viewPersonDetail-infoFamilyDetail{
+    margin-left: 20px;
+    max-height: 400px;
+}
+.viewPersonDetail-infoDetailPerson p, .viewPersonDetail-infoFamilyDetail p{
+    white-space: pre-line;
+}
+
+.viewPersonDetail-content>p{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1100px) {
+    .viewPersonDetail-content{
+        width: 750px;
+        padding: 20px;
+    }
+    .viewPersonDetail-img{
+        width: 250px;
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .viewPersonDetail-content{
+        width: 500px;
+        padding: 10px;
+    }
+    .viewPersonDetail-info{   
+        display: block;     
+    }
+    .viewPersonDetail-img{
+        width: 200px;
+        height: 300px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .viewPersonDetail-infoBasic{
+        margin-top: 20px;
+        max-width: 100%;
+    }
+    .viewPersonDetail-infoBasic>p{
+        margin-left: 20px;
+    }
+}

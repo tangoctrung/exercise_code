@@ -1,0 +1,128 @@
+[
+    {
+        "Id": "01",
+        "Name": "Tỉnh Hà Nam",
+        "Data": [
+            "Huyện Kim Bảng", "Huyện Thanh Liêm", "Huyện Lý Nhân", "Huyện Duy Tiên", "Huyện Bình Lục", "Thành phố Phủ Lý"
+        ]
+    },
+    {
+        "Id": "02",
+        "Name": "Huyện Kim Bảng",
+        "Data": [
+            "Xã Tượng Lĩnh", "Xã Lê Hồ", "Xã Đại Cương", "Xã Nguyễn Uý", "Xã Khả Phong", "Xã Thụy Lôi", "Xã Tân Sơn", "Xã Ngọc Sơn", "Xã Nhật Tân", "Xã Nhật Tựu"
+        ]
+    },
+    {
+        "Id": "03",
+        "Name": "Xã Tượng Lĩnh",
+        "Data": [
+            "Thôn Phù Đê", "Thôn Quang Thừa", "Thôn Phúc Trung", "Thôn Ấp", "Thôn Thợ Cầu", "Thôn Cao Mỹ", "Thôn Lưu Giáo"
+        ]
+    },
+    {
+        "Id": "04",
+        "Name": "Xã Lê Hồ",
+        "Data": [
+            "Thôn Phương Đàn", "Thôn An Đông", "Thôn Phương Thượng", "Thôn Đồng Thái", "Thôn Đại Phú"
+        ]
+    },
+    {
+        "Id": "05",
+        "Name": "Xã Nguyễn Uý",
+        "Data": [
+            "Thôn Cát Nguyên", "Thôn Đức Mộ", "Thôn Phù Lưu", "Thôn Thuận Đức", "Thôn Thường Khê"
+        ]
+    },
+	{
+        "Id": "06",
+        "Name": "Xã Đại Cương",
+        "Data": [
+            "Thôn Dương Cương", "Thôn Nông Vụ", "Thôn Thịnh Đại", "Thôn Tùng Quan"
+        ]
+    },
+    {
+        "Id": "07",
+        "Name": "Huyện Thanh Liêm",
+        "Data": [
+            "Xã Liêm Phong", "Xã Thanh Hà", "Xã Liêm Cần", "Xã Liêm Thuận", "Xã Thanh Thủy", "Xã Thanh Phong", "Xã Thanh Oai", "Xã Nghi Lộc"
+        ]
+    },
+    {
+        "Id": "08",
+        "Name": "Xã Liêm Phong",
+        "Data": [
+            "Thôn Cự Xá", "Thôn Nguyễn Trung", "Thôn Phú Lộc", "Thôn Thượng Trang", "Thôn Bình Hỏa", "Thôn Nghi Hương"
+        ]
+    },
+    {
+        "Id": "09",
+        "Name": "Xã Thanh Hà",
+        "Data": [
+            "Thôn An Hòa", "Thôn Dương Xá", "Thôn Hòa Ngãi", "Thôn Mậu Chử", "Thôn Quang Trung", "Thôn Bình Đằng"
+        ]
+    },
+    {
+        "Id": "10",
+        "Name": "Xã Liêm Cần",
+        "Data": [
+            "Thôn Ngũ Cõi", "Thôn Nhất Nhì", "Thôn Tam Tứ", "Thôn Vực Trại Nhuế"
+        ]
+    },
+    {
+        "Id": "11",
+        "Name": "Xã Liêm Thuận",
+        "Data": [
+            "Thôn Chằm Vải", "Thôn Gừa Sông", "Thôn Lau Chảy", "Thôn Nga Bắc", "Thôn Nga Nam"
+        ]
+    },
+    {
+        "Id": "12",
+        "Name": "Tỉnh Bắc Ninh",
+        "Data": [
+            "Huyện Yên Phong", "Huyện Quế Võ", "Huyện Tiên Du", "Huyện Thuận Thành", "Huyện Gia Bình", 
+        ]
+    },
+    {
+        "Id": "13",
+        "Name": "Huyện Yên Phong",
+        "Data": [
+            "Xã Dũng Liệt", "Xã Tam Đa", "Xã Tam Giang", "Xã Yên Trung", "Xã Thụy Hòa", "Xã Hòa Tiến", "Xã Đông Tiến", "Xã Yên Phụ"
+        ]
+    },
+    {
+        "Id": "14",
+        "Name": "Huyện Quế Võ",
+        "Data": [
+            "Xã Việt Thống", "Xã Đại Xuân", "Xã Nhân Hòa", "Xã Bằng An", "Xã Phương Liễu", "Xã Quế Tân", "Xã Phù Lương"
+        ]
+    },
+	{
+        "Id": "15",
+        "Name": "Xã Dũng Liệt",
+        "Data": [
+            "Thôn Chân Lạc", "Thôn Lạc Trung", "Thôn Phù Cầm", "Thôn Lương Cầm", "Thôn Phù Yên"
+        ]
+    },
+	{
+        "Id": "16",
+        "Name": "Xã Tam Đa",
+        "Data": [
+            "Thôn Phấn Động", "Thôn Đại Lâm", "Thôn Thọ Đức", "Thôn Đức Lý"
+        ]
+    },
+	{
+        "Id": "17",
+        "Name": "Xã Việt Thống",
+        "Data": [
+            "Thôn Thống Hạ", "Thôn Thống Thượng", "Thôn VIệt Hưng", "Thôn VIệt Vân", "Thôn Yên Ngô"
+        ]
+    },
+	{
+        "Id": "18",
+        "Name": "Xã Đại Xuân",
+        "Data": [
+            "Thôn Công Cối", "Thôn Ngư Đại", "Thôn Vĩnh Thế", "Thôn Xuân Bình", "Thôn Xuân Hòa"
+        ]
+    }
+]

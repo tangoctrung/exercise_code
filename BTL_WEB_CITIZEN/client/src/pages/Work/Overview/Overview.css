@@ -1,0 +1,75 @@
+.overview{
+    width: 100%;
+    min-height: calc(100vh - 70px);
+}
+.overview-top{
+    width: 100%;
+    padding: 20px;
+    border-bottom: 2px dotted gray;
+}
+.overview-top h3, .overview-bottom h3{
+    font-size: 24px;
+    color: gray;
+    margin-bottom: 20px;
+}
+.overview-country{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.overview-itemCountry{
+    margin: 10px;
+}
+.overview-itemCountry p{
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.overview-itemCountry input{
+    padding: 8px 10px;
+    outline: none;
+    border: 1.5px solid gray;
+    width: 250px;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+.overview-button{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.overview-bottom{
+    padding: 20px;
+    width: 100%;
+}
+.overview-bottom-listChart{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.overview-bottom-listChart p{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(58, 58, 58);
+}
+
+
+.overviewPieChart{
+    margin: 20px;
+    width: 600px;
+    height: 600px;
+}
+
+@media screen and (max-width: 768px) {
+    .overviewPieChart{
+        margin: 20px;
+        width: 450px;
+        height: 600px;
+    }
+}

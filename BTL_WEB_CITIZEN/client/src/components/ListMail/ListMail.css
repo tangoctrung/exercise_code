@@ -1,0 +1,40 @@
+.listMail{
+    height: 100%;
+    padding: 10px;
+}
+.itemMail{
+    cursor: pointer;
+    padding: 8px 15px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.isActiveItemMail{
+    background-color: rgb(230, 230, 230);
+}
+.itemMail:last-child {
+    border-bottom: none;
+}
+.itemMail-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.itemMail span{
+    text-align: justify;
+}
+.itemMail-sender{
+    padding-bottom: 3px;
+}
+.itemMail-sender b{
+    margin-right: 10px;
+}
+.itemMail-delete i{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(78, 78, 78);
+    transition: all 0.3s ease;
+}

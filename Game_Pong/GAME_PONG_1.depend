@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1588127804 source:c:\users\admin\desktop\game_pong_1\main.cpp
+	<iostream>
+	<SDL.h>
+	<time.h>
+	"window.h"
+	<vector>
+	<cmath>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1586911653 c:\users\admin\desktop\game_pong_1\window.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1586850228 source:c:\users\admin\desktop\game_pong_1\window.cpp
+	"window.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1588077828 source:c:\users\admin\onedrive\máy tính\game_pong-20200613t050707z-001\game_pong\main.cpp
+	<iostream>
+	<SDL.h>
+	<time.h>
+	"window.h"
+	<vector>
+	<cmath>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1586861252 c:\users\admin\onedrive\máy tính\game_pong-20200613t050707z-001\game_pong\window.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1586799828 source:c:\users\admin\onedrive\máy tính\game_pong-20200613t050707z-001\game_pong\window.cpp
+	"window.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+

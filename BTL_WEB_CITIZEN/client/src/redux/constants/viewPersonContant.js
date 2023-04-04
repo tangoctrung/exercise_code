@@ -1,0 +1,2 @@
+export const MODE_VIEW_TABLE = "MODE_VIEW_TABLE";
+export const MODE_VIEW_CARD = "MODE_VIEW_CARD";

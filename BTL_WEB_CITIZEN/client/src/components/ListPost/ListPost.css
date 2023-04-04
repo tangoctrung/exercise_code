@@ -1,0 +1,145 @@
+.listPost{
+    width: 100%;
+}
+
+.post{
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1.5px solid gray;
+}
+.post-top{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.post-top-img{
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
+.post-top-imgName{
+    display: flex;
+    align-items: center;
+    color: black;
+    text-decoration: none;
+}
+.post-top-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.post-top-name{
+    margin-right: 10px;
+}
+.post-top-name strong{
+    font-size: 18px;
+}
+.post-top-menu{
+    display: flex;
+}
+.post-top-item{
+    margin: 0px 5px;
+    position: relative;
+}
+.post-top-item i{
+    font-size: 20px;
+    padding: 10px 5px;
+    cursor: pointer;
+    color: gray;
+}
+.post-top-item i:hover{
+    color: black;
+}
+.post-top-itemMenu{
+    position: relative;
+}
+.post-top-itemMenu i:hover + .post-top-item-options{
+    display: block;
+}
+.post-top-item-options{
+    position: absolute;
+    top: 40px;
+    right: 0px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 250px;
+    background-color: white;
+    box-shadow: 0px 0px 7px 2px rgba(0,0,0,0.2);
+    display: none;
+}
+.post-top-item-options:hover{
+    display: block;
+}
+.post-top-item-options::before{
+    content: "";
+    z-index: -1;
+    position: absolute;
+    top: -60px;
+    left: 0px;
+    width: 250px;
+    height: 80px;
+    background-color: transparent;
+}
+.post-top-item-options-item{
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: gray;
+    transition: all 0.3s ease-in-out;
+}
+.post-top-item-options-item:hover{
+    background-color: rgb(233, 230, 230);
+}
+.post-body{
+    margin-top: 20px;
+    display: flex;
+}
+.post-body-text{
+    flex: 3;
+    padding: 0px 15px 0px 0px;
+}
+.post-top-title h2{
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+.post-top-title h2:hover{
+    text-decoration: underline;
+}
+.post-top-title-link{
+    text-decoration: none;
+    color: black;
+}
+.post-top-content p{
+    text-align: justify;
+    margin-bottom: 5px;
+}
+.post-top-time p{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.post-body-img{
+    flex: 1;
+}
+.post-body-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1100px) {
+    .post-body-text{
+        flex: 4;
+    }
+    .post-body-img{
+        flex: 2;
+    }
+}
+@media screen and (max-width: 900px) {
+    .post-body{
+        display: flex;
+        flex-direction: column;
+    }
+}

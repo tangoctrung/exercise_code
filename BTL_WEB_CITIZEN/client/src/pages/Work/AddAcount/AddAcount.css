@@ -1,0 +1,153 @@
+.addAcount{
+    width: 100%;
+    min-height: calc(100vh - 70px);
+    padding: 10px;
+}
+
+
+.addAcount-top{
+    width: 100%;
+}
+.addAcount-top h3{
+    font-size: 32px;
+    font-weight: bold;
+    color: gray;
+}
+.addAcount-top>p{
+    font-size: 16px;
+    font-style: italic;
+    color: gray;
+}
+.addAcount-top-container{
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.addAcount-top-content{
+    min-width: 350px;
+    padding: 15px;
+    border: 1px solid gray;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+}
+.addAcount-top-content-username{
+    margin-bottom: 20px;
+}
+.addAcount-top-content-username p, .addAcount-top-content-password p{
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.addAcount-top-content-username input, .addAcount-top-content-password input{
+    padding: 10px 10px 8px 10px;
+    width: 90%;
+    outline: none;
+    border: none;
+    border-bottom: 1.5px solid gray;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+.addAcount-top-content-username select{
+    outline: none;
+    padding: 8px 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+}
+.addAcount-top-content-password-text{
+    display: flex;
+}
+.addAcount-top-content-button{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.addAcount-top-content-button p{
+    margin-bottom: 10px;
+    color: red;
+}
+.addAcount-top-content-button p b{
+    cursor: pointer;
+}
+
+
+.addAcount-bottom{
+    margin-top:40px;
+}
+.addAcount-bottom h3{
+    font-size: 32px;
+    font-weight: bold;
+    color: gray;
+    margin-bottom: 10px;
+}
+.addAcount-bottom-button{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.addAcount-bottom-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.addAcount-bottom-container tr, th,td{
+    padding: 10px;
+    border: 1px solid gray;
+}
+.addAcount-bottom-container table{
+    border-collapse: collapse;
+    background-color: white;
+}
+.addAcount-bottom>p{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.addAccountModal-password-content{
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.addAccountModal-password-content h2{
+    width: 100%;
+    text-align: center;
+    color: rgb(53, 53, 53);
+}
+.addAccountModal-password-content p{
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}
+.addAccountModal-listInput{
+    width: 100%;
+    margin-top: 20px;
+}
+.addAccountModal-listInput input {
+    width: 100%;
+    padding: 8px 15px;
+    outline: none;
+    border: 1.5px solid gray;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+}
+.addAccountModal-button{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px){
+    .addAcount-bottom h3, .addAcount-top h3{
+        font-size: 24px;
+    }
+}

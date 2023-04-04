@@ -1,0 +1,66 @@
+.leftbar{
+    width: 100%;
+    padding: 0 5px;
+}
+.leftbar-user{
+    width: 100%;
+    margin-top: 10px;
+    padding: 20px 10px;
+    display: flex;
+    align-items: center;
+    height: 70px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+.leftbar-user:hover{
+    background-color: rgb(240,242,245);
+}
+.leftbar-user img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.leftbar-user span{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(49, 46, 46);
+}
+.leftbar-infoUser>p{
+    font-size: 15px;
+    color: rgb(73, 73, 73);
+}
+
+.leftbar-listMenu{
+    width: 100%;
+    margin-top: 30px;
+    padding: 0px 10px;
+}
+.leftbar-item{
+    width: 100%;
+    padding: 15px 10px 15px 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: rgb(77, 76, 76);
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 500;
+}
+.leftbar-item-isActive{
+    border-radius: 0px;
+    border-left: 3px solid red;
+    background-color: rgb(240,242,245);
+}
+.leftbar-item:hover{
+    background-color: rgb(240,242,245);
+}
+.leftbar-item i{
+    font-size: 24px;
+    margin-right: 10px;
+}

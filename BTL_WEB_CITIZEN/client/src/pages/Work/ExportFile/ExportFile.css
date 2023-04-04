@@ -1,0 +1,49 @@
+.exportFile{
+    width: 100%;
+    min-height: calc(100vh - 70px);
+    padding: 10px;
+    background-color: rgb(236, 236, 236);
+}
+.exportFile-top{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.exportFile-list{
+    display: flex;
+}
+.exportFile-item{
+    margin: 10px;
+}
+.exportFile-item p{
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(206, 206, 206);
+    transition: all 0.3s ease;
+    font-weight: bold;
+}
+.exportFile-item p:hover{
+    background-color: rgb(196, 196, 196);
+}
+.exportFile-item p i{
+    color:rgb(80, 80, 80);
+}
+.exportFile-isActive{
+    background-color: rgb(206, 206, 206);
+}
+.exportFile-bottom{
+    margin-top:20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow-x: scroll;
+}
+
+
+.exportFile-content{
+    width: 900px;
+    min-height: 500px;
+    background-color: white;
+    padding: 30px;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "server": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "appClient": "cd client && npm start",
+    "ckeditor": "concurrently \"command1 arg\" \"command2 arg\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "concurrently": "^6.5.0",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.14",
+    "nodemon": "^2.0.14",
+    "socket.io": "^4.4.0",
+    "validator": "^13.7.0"
+  }
+}
