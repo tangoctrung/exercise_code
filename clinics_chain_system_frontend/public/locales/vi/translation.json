@@ -1,0 +1,26 @@
+{
+  "title": "Chao mung ban su dung react-i18next",
+  "description": {
+    "part1": "De bat dau, chinh sua <1>src/App.js</1> va luu lai de tai lai.",
+    "part2": "Chuyen ngon ngu anh va duc su dung button."
+  },
+  "page": {
+    "auth": {
+      "login": "Đăng nhập",
+      "register": "Đăng ký",
+      "forgotPassword": "Quên mật khẩu?",
+      "haveAccount": "Bạn đã có tài khoản? Đăng nhập",
+      "haveNotAccount": "Bạn chưa có tài khoản? Đăng ký"
+    },
+    "home": {
+      "header": {
+        "service": "Dịch vụ",
+        "about": "Về chúng tôi",
+        "contact": "Liên lạc",
+        "blog": "Blog",
+        "login": "Đăng nhập",
+        "register":"Đăng ký" 
+      }
+    }
+  }
+}

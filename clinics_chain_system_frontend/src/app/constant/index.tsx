@@ -1,0 +1,3 @@
+export const TOKEN_FAKE = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6IiJ9.BlU9J7t-dlap8_qUy6I_uSh161iElnv-5E2B-l1ZxwE"
+export const IMAGE_DEFAULT = "https://firebasestorage.googleapis.com/v0/b/socialtnt-6007a.appspot.com/o/avatar%2F6220d0b1e0843900165a3030%2CNguy%E1%BB%85n%20H%E1%BA%A3o%2F74703545_2751175491605988_4160941892340547584_n.jpg?alt=media&token=f0b04435-2df1-4eef-8eb0-f7667f4571eb"
+export const IMAGE_NODATA = "https://firebasestorage.googleapis.com/v0/b/clinics-b3ea5.appspot.com/o/avatars%2F96b404d4-415c-4032-9ba1-ea3880118479%2F1680101740712?alt=media&token=ee1623b6-20a0-489a-af37-e6d854353d03"

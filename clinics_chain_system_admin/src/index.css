@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, h2, h3, h4, h5, h6{
+  font-size: revert;
+  font-weight: revert;
+}
+
+.ant-btn-primary{
+  background-color: #1677ff !important;
+}
+
+#components-layout-demo-responsive .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.viewRateScroll::-webkit-scrollbar{
+  width: 0;
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Welcome to react using react-i18next",
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  },
+  "page": {
+    "auth": {
+      "login": "Sign in",
+      "register": "Sign up",
+      "forgotPassword": "Forgot password?",
+      "haveAccount": "Already have an account? Sign in",
+      "haveNotAccount": "Don't have an account? Sign up"
+    },
+    "home": {
+      "header": {
+        "service": "Service",
+        "about": "About",
+        "contact": "Contact",
+        "blog": "Blog",
+        "login": "Login",
+        "register": "Register"
+      }
+    }
+  }
+}

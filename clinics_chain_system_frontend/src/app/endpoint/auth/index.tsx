@@ -1,0 +1,21 @@
+import AxiosInstance from "../api";
+
+export const registerUser = (dataRequest:any) => {
+    return AxiosInstance.post("api/users", {data: dataRequest})
+}
+
+export const verifyEmailUser = (dataRequest:any) => {
+    return AxiosInstance.post("api/auth/otp", {data: dataRequest})
+}
+
+export const loginUser = (dataRequest:any) => {
+    return AxiosInstance.post("auth/credential", {data: dataRequest})
+}
+
+export const getInfoUser = () => {
+    return AxiosInstance.get("api/get-me")
+}
+
+export const updateInfoUser = (dataRequest:any) => {
+    return AxiosInstance.put("api/users", {data: dataRequest})
+}

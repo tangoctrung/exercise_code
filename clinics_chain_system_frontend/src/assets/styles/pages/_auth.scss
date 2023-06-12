@@ -1,0 +1,140 @@
+
+.login{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &_form{
+        border-radius: 8px;
+        width: 450px;
+        height: 500px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+        &_title{
+            margin-top: 10px;
+            text-align: center;
+            img{
+                width: 70px;
+                cursor: pointer;
+            }
+            p{
+                font-size: 24px;
+                font-weight: 600;
+            }
+        }
+        &_email{
+            margin-top: 30px;
+        }
+        &_email, &_password{
+            margin-bottom: 20px;
+            text-align: center;
+            .input_login{
+                width: 90%;
+            }
+        }
+        &_submit{
+            text-align: center;
+            .button_submit{
+                width: 50%;
+                height: 50px;
+            }
+        }
+        &_forget{
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            &_content{
+                width: 90%;
+                display: flex;
+                align-items: center;
+                justify-content: end;
+                p{
+                    text-decoration: underline;
+                }
+                p:hover{
+                    color: rgb(29, 115, 185);
+                    cursor: pointer;
+                }
+            }
+        }
+        &_description {
+            text-align: center;
+            margin-top: 60px;
+        }
+    }
+}
+
+
+.register{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &_form{
+        border-radius: 8px;
+        width: 450px;
+        height: 600px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+        &_title{
+            margin-top: 10px;
+            text-align: center;
+            img{
+                width: 70px;
+                cursor: pointer;
+            }
+            p{
+                font-size: 24px;
+                font-weight: 600;
+            }
+        }
+        &_name{
+            margin-top: 30px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center;
+            &_content{
+                display: flex;
+                width: 90%;
+                .kc{
+                    width: 10px;
+                }
+            }
+        }
+        &_email, &_password{
+            margin-bottom: 10px;
+            text-align: center;
+            .input_register{
+                width: 90%;
+            }
+        }
+        &_submit{
+            text-align: center;
+            .button_submit{
+                width: 50%;
+                height: 50px;
+            }
+        }
+        &_forget{
+            margin-top: 15px;
+            display: flex;
+            justify-content: center;
+            &_content{
+                width: 90%;
+                display: flex;
+                justify-content: end;
+                p{
+                    text-decoration: underline;
+                }
+                p:hover{
+                    color: rgb(29, 115, 185);
+                    cursor: pointer;
+                }
+            }
+        }
+        &_description {
+            text-align: center;
+            margin-top: 60px;
+        }
+    }
+}

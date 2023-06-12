@@ -1,0 +1,22 @@
+$screen-default: 1920 !default;
+$gutter: 60 !default;
+
+// directions
+$dir: ('horizontal', 'vertical') !default;
+
+$sidebar-width: 206 !default;
+$sidebar-width-expand: 385 !default;
+
+$gutter-with-sidebar: $sidebar-width + $gutter;
+
+//player
+$player-gutter-x: 90;
+
+//color
+$colors-brand: (
+  "red": #e5024b,
+);
+$colors-neutral: (
+  "white": #ffffff,
+  "black": #000000,
+);
